@@ -1,0 +1,4799 @@
+[
+  {
+    "channel": 0,
+    "start": 0.20,
+    "end": 0.43,
+    "utteranceNumber": 1,
+    "word": "hey",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 0.43,
+    "end": 0.76,
+    "utteranceNumber": 1,
+    "word": "David",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 0.83,
+    "end": 0.98,
+    "utteranceNumber": 1,
+    "word": "good",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 0.98,
+    "end": 1.4,
+    "utteranceNumber": 1,
+    "word": "afternoon",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 1.64,
+    "end": 1.79,
+    "utteranceNumber": 1,
+    "word": "how's",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 1.79,
+    "end": 1.86,
+    "utteranceNumber": 1,
+    "word": "it",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 1.86,
+    "end": 2.13,
+    "utteranceNumber": 1,
+    "word": "going",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 2.82,
+    "end": 2.93,
+    "utteranceNumber": 2,
+    "word": "hi",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 2.93,
+    "end": 3.34,
+    "utteranceNumber": 2,
+    "word": "Isaac",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 3.54,
+    "end": 3.69,
+    "utteranceNumber": 2,
+    "word": "I'm",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 3.69,
+    "end": 3.96,
+    "utteranceNumber": 2,
+    "word": "doing",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 3.96,
+    "end": 4.3,
+    "utteranceNumber": 2,
+    "word": "good",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 4.41,
+    "end": 4.63,
+    "utteranceNumber": 2,
+    "word": "how",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 4.63,
+    "end": 4.84,
+    "utteranceNumber": 2,
+    "word": "about",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 4.84,
+    "end": 5.31,
+    "utteranceNumber": 2,
+    "word": "yourself",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 5.84,
+    "end": 5.99,
+    "utteranceNumber": 3,
+    "word": "I'm",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 5.99,
+    "end": 6.18,
+    "utteranceNumber": 3,
+    "word": "doing",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 6.18,
+    "end": 6.53,
+    "utteranceNumber": 3,
+    "word": "fine",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 6.53,
+    "end": 6.74,
+    "utteranceNumber": 3,
+    "word": "thanks",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 6.74,
+    "end": 6.84,
+    "utteranceNumber": 3,
+    "word": "for",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 6.84,
+    "end": 7.32,
+    "utteranceNumber": 3,
+    "word": "asking",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 7.78,
+    "end": 8.01,
+    "utteranceNumber": 3,
+    "word": "last",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 8.01,
+    "end": 8.15,
+    "utteranceNumber": 3,
+    "word": "time",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 8.15,
+    "end": 8.26,
+    "utteranceNumber": 3,
+    "word": "we",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 8.26,
+    "end": 8.63,
+    "utteranceNumber": 3,
+    "word": "spoke",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 8.63,
+    "end": 8.73,
+    "utteranceNumber": 3,
+    "word": "you",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 8.73,
+    "end": 9.07,
+    "utteranceNumber": 3,
+    "word": "mentioned",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 9.07,
+    "end": 9.18,
+    "utteranceNumber": 3,
+    "word": "your",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 9.18,
+    "end": 9.5,
+    "utteranceNumber": 3,
+    "word": "daughter",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 9.5,
+    "end": 9.66,
+    "utteranceNumber": 3,
+    "word": "was",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 9.66,
+    "end": 9.94,
+    "utteranceNumber": 3,
+    "word": "about",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 9.94,
+    "end": 10.03,
+    "utteranceNumber": 3,
+    "word": "to",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 10.03,
+    "end": 10.14,
+    "utteranceNumber": 3,
+    "word": "be",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 10.14,
+    "end": 10.59,
+    "utteranceNumber": 3,
+    "word": "born",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 10.74,
+    "end": 10.9,
+    "utteranceNumber": 3,
+    "word": "any",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 10.9,
+    "end": 11.08,
+    "utteranceNumber": 3,
+    "word": "big",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 11.08,
+    "end": 11.6,
+    "utteranceNumber": 3,
+    "word": "update",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 12.07,
+    "end": 12.64,
+    "utteranceNumber": 4,
+    "word": "yes",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 12.78,
+    "end": 13.04,
+    "utteranceNumber": 4,
+    "word": "thanks",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 13.04,
+    "end": 13.17,
+    "utteranceNumber": 4,
+    "word": "for",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 13.17,
+    "end": 13.63,
+    "utteranceNumber": 4,
+    "word": "asking",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 14.28,
+    "end": 14.42,
+    "utteranceNumber": 4,
+    "word": "my",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 14.42,
+    "end": 14.7,
+    "utteranceNumber": 4,
+    "word": "wife",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 14.7,
+    "end": 14.96,
+    "utteranceNumber": 4,
+    "word": "had",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 14.96,
+    "end": 15.2,
+    "utteranceNumber": 4,
+    "word": "little",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 15.2,
+    "end": 15.67,
+    "utteranceNumber": 4,
+    "word": "Madeline",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 15.67,
+    "end": 16.01,
+    "utteranceNumber": 4,
+    "word": "early",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 16.01,
+    "end": 16.32,
+    "utteranceNumber": 4,
+    "word": "last",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 16.32,
+    "end": 16.52,
+    "utteranceNumber": 4,
+    "word": "month",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 16.79,
+    "end": 17.06,
+    "utteranceNumber": 4,
+    "word": "she's",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 17.06,
+    "end": 17.19,
+    "utteranceNumber": 4,
+    "word": "the",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 17.19,
+    "end": 17.81,
+    "utteranceNumber": 4,
+    "word": "cutest",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 17.84,
+    "end": 18.13,
+    "utteranceNumber": 4,
+    "word": "most",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 18.13,
+    "end": 18.5,
+    "utteranceNumber": 4,
+    "word": "precious",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 18.5,
+    "end": 18.76,
+    "utteranceNumber": 4,
+    "word": "joy",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 18.76,
+    "end": 18.83,
+    "utteranceNumber": 4,
+    "word": "in",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 18.83,
+    "end": 18.96,
+    "utteranceNumber": 4,
+    "word": "our",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 18.96,
+    "end": 19.29,
+    "utteranceNumber": 4,
+    "word": "lives",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 19.29,
+    "end": 19.47,
+    "utteranceNumber": 4,
+    "word": "right",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 19.47,
+    "end": 19.78,
+    "utteranceNumber": 4,
+    "word": "now",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 20.22,
+    "end": 20.3,
+    "utteranceNumber": 4,
+    "word": "it",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 20.3,
+    "end": 20.42,
+    "utteranceNumber": 4,
+    "word": "has",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 20.42,
+    "end": 20.59,
+    "utteranceNumber": 4,
+    "word": "been",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 20.59,
+    "end": 20.91,
+    "utteranceNumber": 4,
+    "word": "such",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 20.91,
+    "end": 20.98,
+    "utteranceNumber": 4,
+    "word": "a",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 20.98,
+    "end": 21.37,
+    "utteranceNumber": 4,
+    "word": "blessing",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 21.37,
+    "end": 21.49,
+    "utteranceNumber": 4,
+    "word": "to",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 21.49,
+    "end": 21.62,
+    "utteranceNumber": 4,
+    "word": "be",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 21.62,
+    "end": 21.68,
+    "utteranceNumber": 4,
+    "word": "a",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 21.68,
+    "end": 22.02,
+    "utteranceNumber": 4,
+    "word": "father",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 22.02,
+    "end": 22.15,
+    "utteranceNumber": 4,
+    "word": "for",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 22.15,
+    "end": 22.23,
+    "utteranceNumber": 4,
+    "word": "the",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 22.23,
+    "end": 22.52,
+    "utteranceNumber": 4,
+    "word": "first",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 22.52,
+    "end": 22.85,
+    "utteranceNumber": 4,
+    "word": "time",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 23.69,
+    "end": 24.48,
+    "utteranceNumber": 5,
+    "word": "congratulations",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 24.51,
+    "end": 24.69,
+    "utteranceNumber": 5,
+    "word": "that",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 24.69,
+    "end": 24.94,
+    "utteranceNumber": 5,
+    "word": "warms",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 24.94,
+    "end": 25.08,
+    "utteranceNumber": 5,
+    "word": "my",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 25.08,
+    "end": 25.3,
+    "utteranceNumber": 5,
+    "word": "heart",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 25.3,
+    "end": 25.39,
+    "utteranceNumber": 5,
+    "word": "to",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 25.39,
+    "end": 25.73,
+    "utteranceNumber": 5,
+    "word": "hear",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 25.76,
+    "end": 25.91,
+    "utteranceNumber": 5,
+    "word": "I'm",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 25.91,
+    "end": 26.03,
+    "utteranceNumber": 5,
+    "word": "so",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 26.03,
+    "end": 26.28,
+    "utteranceNumber": 5,
+    "word": "happy",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 26.28,
+    "end": 26.42,
+    "utteranceNumber": 5,
+    "word": "for",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 26.42,
+    "end": 26.7,
+    "utteranceNumber": 5,
+    "word": "you",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 27.37,
+    "end": 27.73,
+    "utteranceNumber": 6,
+    "word": "thanks",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 27.73,
+    "end": 28.21,
+    "utteranceNumber": 6,
+    "word": "Isaac",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 28.24,
+    "end": 28.4,
+    "utteranceNumber": 6,
+    "word": "it",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 28.4,
+    "end": 28.65,
+    "utteranceNumber": 6,
+    "word": "means",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 28.65,
+    "end": 28.74,
+    "utteranceNumber": 6,
+    "word": "a",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 28.74,
+    "end": 29.11,
+    "utteranceNumber": 6,
+    "word": "lot",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 29.64,
+    "end": 30.04,
+    "utteranceNumber": 6,
+    "word": "speaking",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 30.04,
+    "end": 30.13,
+    "utteranceNumber": 6,
+    "word": "of",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 30.13,
+    "end": 30.28,
+    "utteranceNumber": 6,
+    "word": "my",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 30.28,
+    "end": 30.79,
+    "utteranceNumber": 6,
+    "word": "daughter",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 30.82,
+    "end": 30.9,
+    "utteranceNumber": 6,
+    "word": "I",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 30.9,
+    "end": 31.04,
+    "utteranceNumber": 6,
+    "word": "was",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 31.04,
+    "end": 31.31,
+    "utteranceNumber": 6,
+    "word": "calling",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 31.31,
+    "end": 31.42,
+    "utteranceNumber": 6,
+    "word": "to",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 31.42,
+    "end": 31.74,
+    "utteranceNumber": 6,
+    "word": "ask",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 31.74,
+    "end": 31.83,
+    "utteranceNumber": 6,
+    "word": "for",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 31.83,
+    "end": 32.02,
+    "utteranceNumber": 6,
+    "word": "some",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 32.02,
+    "end": 32.63,
+    "utteranceNumber": 6,
+    "word": "advice",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 32.97,
+    "end": 33.12,
+    "utteranceNumber": 6,
+    "word": "we",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 33.12,
+    "end": 33.38,
+    "utteranceNumber": 6,
+    "word": "want",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 33.38,
+    "end": 33.44,
+    "utteranceNumber": 6,
+    "word": "to",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 33.44,
+    "end": 33.57,
+    "utteranceNumber": 6,
+    "word": "be",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 33.57,
+    "end": 33.84,
+    "utteranceNumber": 6,
+    "word": "able",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 33.84,
+    "end": 33.99,
+    "utteranceNumber": 6,
+    "word": "to",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 33.99,
+    "end": 34.26,
+    "utteranceNumber": 6,
+    "word": "send",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 34.26,
+    "end": 34.38,
+    "utteranceNumber": 6,
+    "word": "our",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 34.38,
+    "end": 34.65,
+    "utteranceNumber": 6,
+    "word": "daughter",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 34.65,
+    "end": 34.76,
+    "utteranceNumber": 6,
+    "word": "to",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 34.76,
+    "end": 35.22,
+    "utteranceNumber": 6,
+    "word": "college",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 35.22,
+    "end": 35.34,
+    "utteranceNumber": 6,
+    "word": "when",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 35.34,
+    "end": 35.51,
+    "utteranceNumber": 6,
+    "word": "she",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 35.51,
+    "end": 35.8,
+    "utteranceNumber": 6,
+    "word": "grows",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 35.8,
+    "end": 36.1,
+    "utteranceNumber": 6,
+    "word": "up",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 36.55,
+    "end": 36.7,
+    "utteranceNumber": 6,
+    "word": "is",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 36.7,
+    "end": 36.81,
+    "utteranceNumber": 6,
+    "word": "there",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 36.81,
+    "end": 37.1,
+    "utteranceNumber": 6,
+    "word": "any",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 37.1,
+    "end": 37.34,
+    "utteranceNumber": 6,
+    "word": "way",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 37.34,
+    "end": 37.5,
+    "utteranceNumber": 6,
+    "word": "we",
+    "id": 38,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 37.5,
+    "end": 37.62,
+    "utteranceNumber": 6,
+    "word": "can",
+    "id": 39,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 37.62,
+    "end": 38.05,
+    "utteranceNumber": 6,
+    "word": "start",
+    "id": 40,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 38.05,
+    "end": 38.36,
+    "utteranceNumber": 6,
+    "word": "preparing",
+    "id": 41,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 38.36,
+    "end": 38.49,
+    "utteranceNumber": 6,
+    "word": "for",
+    "id": 42,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 38.49,
+    "end": 38.68,
+    "utteranceNumber": 6,
+    "word": "that",
+    "id": 43,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 38.68,
+    "end": 39.16,
+    "utteranceNumber": 6,
+    "word": "now",
+    "id": 44,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 39.77,
+    "end": 40.04,
+    "utteranceNumber": 7,
+    "word": "yes",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 40.04,
+    "end": 40.19,
+    "utteranceNumber": 7,
+    "word": "for",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 40.19,
+    "end": 40.49,
+    "utteranceNumber": 7,
+    "word": "sure",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 41.08,
+    "end": 41.33,
+    "utteranceNumber": 7,
+    "word": "first",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 41.33,
+    "end": 41.56,
+    "utteranceNumber": 7,
+    "word": "off",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 41.56,
+    "end": 41.66,
+    "utteranceNumber": 7,
+    "word": "I",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 41.66,
+    "end": 42,
+    "utteranceNumber": 7,
+    "word": "applaud",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 42,
+    "end": 42.08,
+    "utteranceNumber": 7,
+    "word": "you",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 42.08,
+    "end": 42.23,
+    "utteranceNumber": 7,
+    "word": "for",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 42.23,
+    "end": 42.42,
+    "utteranceNumber": 7,
+    "word": "being",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 42.42,
+    "end": 42.6,
+    "utteranceNumber": 7,
+    "word": "so",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 42.6,
+    "end": 43.34,
+    "utteranceNumber": 7,
+    "word": "proactive",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 43.74,
+    "end": 43.88,
+    "utteranceNumber": 7,
+    "word": "one",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 43.88,
+    "end": 43.95,
+    "utteranceNumber": 7,
+    "word": "of",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 43.95,
+    "end": 44.02,
+    "utteranceNumber": 7,
+    "word": "the",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 44.02,
+    "end": 44.25,
+    "utteranceNumber": 7,
+    "word": "most",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 44.25,
+    "end": 44.67,
+    "utteranceNumber": 7,
+    "word": "popular",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 44.67,
+    "end": 44.89,
+    "utteranceNumber": 7,
+    "word": "ways",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 44.89,
+    "end": 44.99,
+    "utteranceNumber": 7,
+    "word": "to",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 44.99,
+    "end": 45.23,
+    "utteranceNumber": 7,
+    "word": "start",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 45.23,
+    "end": 45.53,
+    "utteranceNumber": 7,
+    "word": "saving",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 45.53,
+    "end": 45.66,
+    "utteranceNumber": 7,
+    "word": "for",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 45.66,
+    "end": 46.05,
+    "utteranceNumber": 7,
+    "word": "college",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 46.05,
+    "end": 46.17,
+    "utteranceNumber": 7,
+    "word": "is",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 46.17,
+    "end": 46.35,
+    "utteranceNumber": 7,
+    "word": "through",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 46.35,
+    "end": 46.42,
+    "utteranceNumber": 7,
+    "word": "a",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 46.42,
+    "end": 46.73,
+    "utteranceNumber": 7,
+    "word": "five",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 46.73,
+    "end": 47,
+    "utteranceNumber": 7,
+    "word": "twenty",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 47,
+    "end": 47.22,
+    "utteranceNumber": 7,
+    "word": "nine",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 47.22,
+    "end": 47.56,
+    "utteranceNumber": 7,
+    "word": "plan",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 47.97,
+    "end": 48.06,
+    "utteranceNumber": 7,
+    "word": "have",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 48.06,
+    "end": 48.14,
+    "utteranceNumber": 7,
+    "word": "you",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 48.14,
+    "end": 48.33,
+    "utteranceNumber": 7,
+    "word": "heard",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 48.33,
+    "end": 48.39,
+    "utteranceNumber": 7,
+    "word": "of",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 48.39,
+    "end": 48.53,
+    "utteranceNumber": 7,
+    "word": "this",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 48.53,
+    "end": 48.99,
+    "utteranceNumber": 7,
+    "word": "before",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 49.54,
+    "end": 49.99,
+    "utteranceNumber": 8,
+    "word": "no",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 50.22,
+    "end": 50.43,
+    "utteranceNumber": 8,
+    "word": "can",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 50.43,
+    "end": 50.55,
+    "utteranceNumber": 8,
+    "word": "you",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 50.55,
+    "end": 51.12,
+    "utteranceNumber": 8,
+    "word": "explain",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 51.68,
+    "end": 52.17,
+    "utteranceNumber": 9,
+    "word": "sure",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 52.2,
+    "end": 52.37,
+    "utteranceNumber": 9,
+    "word": "so",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 52.37,
+    "end": 52.44,
+    "utteranceNumber": 9,
+    "word": "a",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 52.44,
+    "end": 52.75,
+    "utteranceNumber": 9,
+    "word": "five",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 52.75,
+    "end": 53,
+    "utteranceNumber": 9,
+    "word": "twenty",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 53,
+    "end": 53.23,
+    "utteranceNumber": 9,
+    "word": "nine",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 53.23,
+    "end": 53.56,
+    "utteranceNumber": 9,
+    "word": "plan",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 53.56,
+    "end": 53.68,
+    "utteranceNumber": 9,
+    "word": "is",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 53.68,
+    "end": 53.75,
+    "utteranceNumber": 9,
+    "word": "a",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 53.75,
+    "end": 54.13,
+    "utteranceNumber": 9,
+    "word": "tax",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 54.13,
+    "end": 54.66,
+    "utteranceNumber": 9,
+    "word": "advantaged",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 54.66,
+    "end": 55.01,
+    "utteranceNumber": 9,
+    "word": "savings",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 55.01,
+    "end": 55.25,
+    "utteranceNumber": 9,
+    "word": "plan",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 55.25,
+    "end": 55.37,
+    "utteranceNumber": 9,
+    "word": "to",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 55.37,
+    "end": 55.58,
+    "utteranceNumber": 9,
+    "word": "help",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 55.58,
+    "end": 55.75,
+    "utteranceNumber": 9,
+    "word": "pay",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 55.75,
+    "end": 55.92,
+    "utteranceNumber": 9,
+    "word": "for",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 55.92,
+    "end": 56.61,
+    "utteranceNumber": 9,
+    "word": "education",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 57.18,
+    "end": 57.36,
+    "utteranceNumber": 9,
+    "word": "this",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 57.36,
+    "end": 57.67,
+    "utteranceNumber": 9,
+    "word": "means",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 57.67,
+    "end": 57.82,
+    "utteranceNumber": 9,
+    "word": "that",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 57.82,
+    "end": 57.9,
+    "utteranceNumber": 9,
+    "word": "the",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 57.9,
+    "end": 58.2,
+    "utteranceNumber": 9,
+    "word": "money",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 58.2,
+    "end": 58.32,
+    "utteranceNumber": 9,
+    "word": "in",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 58.32,
+    "end": 58.46,
+    "utteranceNumber": 9,
+    "word": "it",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 58.46,
+    "end": 58.74,
+    "utteranceNumber": 9,
+    "word": "grows",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 58.74,
+    "end": 59.09,
+    "utteranceNumber": 9,
+    "word": "tax",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 59.09,
+    "end": 59.51,
+    "utteranceNumber": 9,
+    "word": "deferred",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 59.51,
+    "end": 59.81,
+    "utteranceNumber": 9,
+    "word": "until",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 59.81,
+    "end": 59.96,
+    "utteranceNumber": 9,
+    "word": "it",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 59.96,
+    "end": 60.05,
+    "utteranceNumber": 9,
+    "word": "is",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 60.05,
+    "end": 60.55,
+    "utteranceNumber": 9,
+    "word": "withdrawn",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 60.55,
+    "end": 60.66,
+    "utteranceNumber": 9,
+    "word": "to",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 60.66,
+    "end": 60.84,
+    "utteranceNumber": 9,
+    "word": "pay",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 60.84,
+    "end": 61,
+    "utteranceNumber": 9,
+    "word": "for",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 61,
+    "end": 61.56,
+    "utteranceNumber": 9,
+    "word": "qualifying",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 61.56,
+    "end": 62.15,
+    "utteranceNumber": 9,
+    "word": "education",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 62.15,
+    "end": 62.9,
+    "utteranceNumber": 9,
+    "word": "expenses",
+    "id": 38,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 63.39,
+    "end": 63.51,
+    "utteranceNumber": 9,
+    "word": "there",
+    "id": 39,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 63.51,
+    "end": 63.61,
+    "utteranceNumber": 9,
+    "word": "are",
+    "id": 40,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 63.61,
+    "end": 63.96,
+    "utteranceNumber": 9,
+    "word": "different",
+    "id": 41,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 63.96,
+    "end": 64.38,
+    "utteranceNumber": 9,
+    "word": "investment",
+    "id": 42,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 64.38,
+    "end": 64.73,
+    "utteranceNumber": 9,
+    "word": "options",
+    "id": 43,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 64.73,
+    "end": 65.12,
+    "utteranceNumber": 9,
+    "word": "offered",
+    "id": 44,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 65.12,
+    "end": 65.51,
+    "utteranceNumber": 9,
+    "word": "depending",
+    "id": 45,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 65.51,
+    "end": 65.64,
+    "utteranceNumber": 9,
+    "word": "on",
+    "id": 46,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 65.64,
+    "end": 65.8,
+    "utteranceNumber": 9,
+    "word": "your",
+    "id": 47,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 65.8,
+    "end": 66.09,
+    "utteranceNumber": 9,
+    "word": "risk",
+    "id": 48,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 66.09,
+    "end": 66.59,
+    "utteranceNumber": 9,
+    "word": "tolerance",
+    "id": 49,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 66.59,
+    "end": 66.77,
+    "utteranceNumber": 9,
+    "word": "and",
+    "id": 50,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 66.77,
+    "end": 67.12,
+    "utteranceNumber": 9,
+    "word": "child's",
+    "id": 51,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 67.12,
+    "end": 67.69,
+    "utteranceNumber": 9,
+    "word": "age",
+    "id": 52,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 68.03,
+    "end": 68.15,
+    "utteranceNumber": 9,
+    "word": "there",
+    "id": 53,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 68.15,
+    "end": 68.24,
+    "utteranceNumber": 9,
+    "word": "are",
+    "id": 54,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 68.24,
+    "end": 68.45,
+    "utteranceNumber": 9,
+    "word": "two",
+    "id": 55,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 68.45,
+    "end": 68.65,
+    "utteranceNumber": 9,
+    "word": "main",
+    "id": 56,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 68.65,
+    "end": 69.19,
+    "utteranceNumber": 9,
+    "word": "types",
+    "id": 57,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 69.43,
+    "end": 70.01,
+    "utteranceNumber": 9,
+    "word": "education",
+    "id": 58,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 70.01,
+    "end": 70.38,
+    "utteranceNumber": 9,
+    "word": "savings",
+    "id": 59,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 70.38,
+    "end": 70.81,
+    "utteranceNumber": 9,
+    "word": "plans",
+    "id": 60,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 70.81,
+    "end": 71.01,
+    "utteranceNumber": 9,
+    "word": "and",
+    "id": 61,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 71.01,
+    "end": 71.48,
+    "utteranceNumber": 9,
+    "word": "prepaid",
+    "id": 62,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 71.48,
+    "end": 71.89,
+    "utteranceNumber": 9,
+    "word": "tuition",
+    "id": 63,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 71.89,
+    "end": 72.45,
+    "utteranceNumber": 9,
+    "word": "plans",
+    "id": 64,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 73,
+    "end": 73.18,
+    "utteranceNumber": 10,
+    "word": "oh",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 73.18,
+    "end": 73.41,
+    "utteranceNumber": 10,
+    "word": "this",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 73.41,
+    "end": 73.53,
+    "utteranceNumber": 10,
+    "word": "is",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 73.53,
+    "end": 74.14,
+    "utteranceNumber": 10,
+    "word": "cool",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 74.55,
+    "end": 74.7,
+    "utteranceNumber": 10,
+    "word": "I'm",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 74.7,
+    "end": 75.3,
+    "utteranceNumber": 10,
+    "word": "definitely",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 75.3,
+    "end": 75.76,
+    "utteranceNumber": 10,
+    "word": "interested",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 75.76,
+    "end": 76.21,
+    "utteranceNumber": 10,
+    "word": "now",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 76.57,
+    "end": 76.86,
+    "utteranceNumber": 10,
+    "word": "what's",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 76.86,
+    "end": 76.96,
+    "utteranceNumber": 10,
+    "word": "the",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 76.96,
+    "end": 77.36,
+    "utteranceNumber": 10,
+    "word": "difference",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 77.36,
+    "end": 77.64,
+    "utteranceNumber": 10,
+    "word": "between",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 77.64,
+    "end": 77.72,
+    "utteranceNumber": 10,
+    "word": "the",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 77.72,
+    "end": 77.91,
+    "utteranceNumber": 10,
+    "word": "two",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 77.91,
+    "end": 78.3,
+    "utteranceNumber": 10,
+    "word": "plans",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 78.3,
+    "end": 78.38,
+    "utteranceNumber": 10,
+    "word": "you",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 78.38,
+    "end": 78.85,
+    "utteranceNumber": 10,
+    "word": "mentioned",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 79.45,
+    "end": 79.68,
+    "utteranceNumber": 11,
+    "word": "good",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 79.68,
+    "end": 80.08,
+    "utteranceNumber": 11,
+    "word": "question",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 80.55,
+    "end": 80.68,
+    "utteranceNumber": 11,
+    "word": "so",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 80.68,
+    "end": 80.77,
+    "utteranceNumber": 11,
+    "word": "the",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 80.77,
+    "end": 80.98,
+    "utteranceNumber": 11,
+    "word": "five",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 80.98,
+    "end": 81.22,
+    "utteranceNumber": 11,
+    "word": "twenty",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 81.22,
+    "end": 81.45,
+    "utteranceNumber": 11,
+    "word": "nine",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 81.45,
+    "end": 81.79,
+    "utteranceNumber": 11,
+    "word": "savings",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 81.79,
+    "end": 82.06,
+    "utteranceNumber": 11,
+    "word": "plan",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 82.06,
+    "end": 82.16,
+    "utteranceNumber": 11,
+    "word": "is",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 82.16,
+    "end": 82.61,
+    "utteranceNumber": 11,
+    "word": "definitely",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 82.61,
+    "end": 82.77,
+    "utteranceNumber": 11,
+    "word": "more",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 82.77,
+    "end": 83.32,
+    "utteranceNumber": 11,
+    "word": "popular",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 83.76,
+    "end": 83.96,
+    "utteranceNumber": 11,
+    "word": "this",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 83.96,
+    "end": 84.22,
+    "utteranceNumber": 11,
+    "word": "plan",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 84.22,
+    "end": 84.48,
+    "utteranceNumber": 11,
+    "word": "allows",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 84.48,
+    "end": 84.57,
+    "utteranceNumber": 11,
+    "word": "you",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 84.57,
+    "end": 84.72,
+    "utteranceNumber": 11,
+    "word": "to",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 84.72,
+    "end": 85.1,
+    "utteranceNumber": 11,
+    "word": "invest",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 85.1,
+    "end": 85.34,
+    "utteranceNumber": 11,
+    "word": "money",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 85.34,
+    "end": 85.48,
+    "utteranceNumber": 11,
+    "word": "that",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 85.48,
+    "end": 85.6,
+    "utteranceNumber": 11,
+    "word": "will",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 85.6,
+    "end": 85.92,
+    "utteranceNumber": 11,
+    "word": "grow",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 85.92,
+    "end": 86.03,
+    "utteranceNumber": 11,
+    "word": "and",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 86.03,
+    "end": 86.51,
+    "utteranceNumber": 11,
+    "word": "eventually",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 86.51,
+    "end": 86.68,
+    "utteranceNumber": 11,
+    "word": "give",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 86.68,
+    "end": 86.79,
+    "utteranceNumber": 11,
+    "word": "you",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 86.79,
+    "end": 87.49,
+    "utteranceNumber": 11,
+    "word": "flexibility",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 87.49,
+    "end": 87.64,
+    "utteranceNumber": 11,
+    "word": "to",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 87.64,
+    "end": 87.85,
+    "utteranceNumber": 11,
+    "word": "pay",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 87.85,
+    "end": 88.06,
+    "utteranceNumber": 11,
+    "word": "for",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 88.06,
+    "end": 88.61,
+    "utteranceNumber": 11,
+    "word": "education",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 88.61,
+    "end": 89.16,
+    "utteranceNumber": 11,
+    "word": "expenses",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 89.16,
+    "end": 89.32,
+    "utteranceNumber": 11,
+    "word": "for",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 89.32,
+    "end": 89.66,
+    "utteranceNumber": 11,
+    "word": "K",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 89.66,
+    "end": 89.77,
+    "utteranceNumber": 11,
+    "word": "through",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 89.77,
+    "end": 90.2,
+    "utteranceNumber": 11,
+    "word": "twelve",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 90.28,
+    "end": 90.59,
+    "utteranceNumber": 11,
+    "word": "and",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 90.59,
+    "end": 91.12,
+    "utteranceNumber": 11,
+    "word": "college",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 91.68,
+    "end": 91.81,
+    "utteranceNumber": 11,
+    "word": "on",
+    "id": 38,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 91.81,
+    "end": 91.89,
+    "utteranceNumber": 11,
+    "word": "the",
+    "id": 39,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 91.89,
+    "end": 92.12,
+    "utteranceNumber": 11,
+    "word": "other",
+    "id": 40,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 92.12,
+    "end": 92.59,
+    "utteranceNumber": 11,
+    "word": "hand",
+    "id": 41,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 92.84,
+    "end": 92.96,
+    "utteranceNumber": 11,
+    "word": "a",
+    "id": 42,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 92.96,
+    "end": 93.4,
+    "utteranceNumber": 11,
+    "word": "prepaid",
+    "id": 43,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 93.4,
+    "end": 93.82,
+    "utteranceNumber": 11,
+    "word": "tuition",
+    "id": 44,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 93.82,
+    "end": 94.09,
+    "utteranceNumber": 11,
+    "word": "plan",
+    "id": 45,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 94.09,
+    "end": 94.35,
+    "utteranceNumber": 11,
+    "word": "allows",
+    "id": 46,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 94.35,
+    "end": 94.43,
+    "utteranceNumber": 11,
+    "word": "you",
+    "id": 47,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 94.43,
+    "end": 94.52,
+    "utteranceNumber": 11,
+    "word": "to",
+    "id": 48,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 94.52,
+    "end": 94.72,
+    "utteranceNumber": 11,
+    "word": "pay",
+    "id": 49,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 94.72,
+    "end": 94.9,
+    "utteranceNumber": 11,
+    "word": "for",
+    "id": 50,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 94.9,
+    "end": 95.22,
+    "utteranceNumber": 11,
+    "word": "future",
+    "id": 51,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 95.22,
+    "end": 95.57,
+    "utteranceNumber": 11,
+    "word": "college",
+    "id": 52,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 95.57,
+    "end": 96.08,
+    "utteranceNumber": 11,
+    "word": "tuition",
+    "id": 53,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 96.11,
+    "end": 96.46,
+    "utteranceNumber": 11,
+    "word": "locked",
+    "id": 54,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 96.46,
+    "end": 96.56,
+    "utteranceNumber": 11,
+    "word": "in",
+    "id": 55,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 96.56,
+    "end": 96.72,
+    "utteranceNumber": 11,
+    "word": "at",
+    "id": 56,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 96.72,
+    "end": 97.1,
+    "utteranceNumber": 11,
+    "word": "today's",
+    "id": 57,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 97.1,
+    "end": 97.7,
+    "utteranceNumber": 11,
+    "word": "price",
+    "id": 58,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 98.2,
+    "end": 98.28,
+    "utteranceNumber": 11,
+    "word": "the",
+    "id": 59,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 98.28,
+    "end": 98.57,
+    "utteranceNumber": 11,
+    "word": "credits",
+    "id": 60,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 98.57,
+    "end": 98.7,
+    "utteranceNumber": 11,
+    "word": "you",
+    "id": 61,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 98.7,
+    "end": 99.2,
+    "utteranceNumber": 11,
+    "word": "purchased",
+    "id": 62,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 99.2,
+    "end": 99.5,
+    "utteranceNumber": 11,
+    "word": "then",
+    "id": 63,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 99.5,
+    "end": 99.68,
+    "utteranceNumber": 11,
+    "word": "have",
+    "id": 64,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 99.68,
+    "end": 99.81,
+    "utteranceNumber": 11,
+    "word": "to",
+    "id": 65,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 99.81,
+    "end": 99.92,
+    "utteranceNumber": 11,
+    "word": "be",
+    "id": 66,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 99.92,
+    "end": 100.17,
+    "utteranceNumber": 11,
+    "word": "used",
+    "id": 67,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 100.17,
+    "end": 100.28,
+    "utteranceNumber": 11,
+    "word": "for",
+    "id": 68,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 100.28,
+    "end": 100.76,
+    "utteranceNumber": 11,
+    "word": "qualified",
+    "id": 69,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 100.76,
+    "end": 101.37,
+    "utteranceNumber": 11,
+    "word": "expenses",
+    "id": 70,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 101.37,
+    "end": 101.56,
+    "utteranceNumber": 11,
+    "word": "for",
+    "id": 71,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 101.56,
+    "end": 101.61,
+    "utteranceNumber": 11,
+    "word": "a",
+    "id": 72,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 101.61,
+    "end": 101.94,
+    "utteranceNumber": 11,
+    "word": "set",
+    "id": 73,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 101.94,
+    "end": 102.18,
+    "utteranceNumber": 11,
+    "word": "list",
+    "id": 74,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 102.18,
+    "end": 102.26,
+    "utteranceNumber": 11,
+    "word": "of",
+    "id": 75,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 102.26,
+    "end": 102.96,
+    "utteranceNumber": 11,
+    "word": "colleges",
+    "id": 76,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 103.61,
+    "end": 103.71,
+    "utteranceNumber": 11,
+    "word": "to",
+    "id": 77,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 103.71,
+    "end": 103.85,
+    "utteranceNumber": 11,
+    "word": "help",
+    "id": 78,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 103.85,
+    "end": 103.99,
+    "utteranceNumber": 11,
+    "word": "you",
+    "id": 79,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 103.99,
+    "end": 104.22,
+    "utteranceNumber": 11,
+    "word": "pick",
+    "id": 80,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 104.22,
+    "end": 104.62,
+    "utteranceNumber": 11,
+    "word": "one",
+    "id": 81,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 104.81,
+    "end": 104.98,
+    "utteranceNumber": 11,
+    "word": "can",
+    "id": 82,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 104.98,
+    "end": 105.07,
+    "utteranceNumber": 11,
+    "word": "you",
+    "id": 83,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 105.07,
+    "end": 105.24,
+    "utteranceNumber": 11,
+    "word": "tell",
+    "id": 84,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 105.24,
+    "end": 105.35,
+    "utteranceNumber": 11,
+    "word": "me",
+    "id": 85,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 105.35,
+    "end": 105.57,
+    "utteranceNumber": 11,
+    "word": "about",
+    "id": 86,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 105.57,
+    "end": 105.68,
+    "utteranceNumber": 11,
+    "word": "your",
+    "id": 87,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 105.68,
+    "end": 106.16,
+    "utteranceNumber": 11,
+    "word": "desires",
+    "id": 88,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 106.16,
+    "end": 106.33,
+    "utteranceNumber": 11,
+    "word": "and",
+    "id": 89,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 106.33,
+    "end": 106.66,
+    "utteranceNumber": 11,
+    "word": "goals",
+    "id": 90,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 106.66,
+    "end": 106.78,
+    "utteranceNumber": 11,
+    "word": "for",
+    "id": 91,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 106.78,
+    "end": 107.2,
+    "utteranceNumber": 11,
+    "word": "Madeline's",
+    "id": 92,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 107.2,
+    "end": 107.84,
+    "utteranceNumber": 11,
+    "word": "education",
+    "id": 93,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 108.43,
+    "end": 108.64,
+    "utteranceNumber": 12,
+    "word": "yeah",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 108.64,
+    "end": 109.03,
+    "utteranceNumber": 12,
+    "word": "sure",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 109.39,
+    "end": 109.61,
+    "utteranceNumber": 12,
+    "word": "so",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 109.61,
+    "end": 109.79,
+    "utteranceNumber": 12,
+    "word": "my",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 109.79,
+    "end": 110.08,
+    "utteranceNumber": 12,
+    "word": "wife",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 110.08,
+    "end": 110.21,
+    "utteranceNumber": 12,
+    "word": "and",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 110.21,
+    "end": 110.31,
+    "utteranceNumber": 12,
+    "word": "I",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 110.31,
+    "end": 110.63,
+    "utteranceNumber": 12,
+    "word": "want",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 110.63,
+    "end": 110.69,
+    "utteranceNumber": 12,
+    "word": "to",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 110.69,
+    "end": 110.92,
+    "utteranceNumber": 12,
+    "word": "give",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 111.31,
+    "end": 111.43,
+    "utteranceNumber": 12,
+    "word": "Maddie",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 111.43,
+    "end": 111.56,
+    "utteranceNumber": 12,
+    "word": "the",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 111.56,
+    "end": 112.18,
+    "utteranceNumber": 12,
+    "word": "ability",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 112.21,
+    "end": 112.34,
+    "utteranceNumber": 12,
+    "word": "to",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 112.34,
+    "end": 112.57,
+    "utteranceNumber": 12,
+    "word": "pick",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 112.57,
+    "end": 112.95,
+    "utteranceNumber": 12,
+    "word": "whichever",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 112.95,
+    "end": 113.37,
+    "utteranceNumber": 12,
+    "word": "college",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 113.37,
+    "end": 113.76,
+    "utteranceNumber": 12,
+    "word": "option",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 113.76,
+    "end": 113.95,
+    "utteranceNumber": 12,
+    "word": "that",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 113.95,
+    "end": 114.18,
+    "utteranceNumber": 12,
+    "word": "best",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 114.18,
+    "end": 114.41,
+    "utteranceNumber": 12,
+    "word": "suits",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 114.41,
+    "end": 114.52,
+    "utteranceNumber": 12,
+    "word": "her",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 114.52,
+    "end": 114.99,
+    "utteranceNumber": 12,
+    "word": "talents",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 114.99,
+    "end": 115.22,
+    "utteranceNumber": 12,
+    "word": "and",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 115.22,
+    "end": 116.14,
+    "utteranceNumber": 12,
+    "word": "aspirations",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 116.63,
+    "end": 116.74,
+    "utteranceNumber": 12,
+    "word": "we're",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 116.74,
+    "end": 117.08,
+    "utteranceNumber": 12,
+    "word": "also",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 117.08,
+    "end": 117.63,
+    "utteranceNumber": 12,
+    "word": "considering",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 117.63,
+    "end": 117.97,
+    "utteranceNumber": 12,
+    "word": "sending",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 117.97,
+    "end": 118.18,
+    "utteranceNumber": 12,
+    "word": "her",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 118.18,
+    "end": 118.24,
+    "utteranceNumber": 12,
+    "word": "to",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 118.24,
+    "end": 118.51,
+    "utteranceNumber": 12,
+    "word": "private",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 118.51,
+    "end": 118.81,
+    "utteranceNumber": 12,
+    "word": "school",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 118.81,
+    "end": 118.89,
+    "utteranceNumber": 12,
+    "word": "at",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 118.89,
+    "end": 119.28,
+    "utteranceNumber": 12,
+    "word": "least",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 119.28,
+    "end": 119.36,
+    "utteranceNumber": 12,
+    "word": "in",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 119.36,
+    "end": 119.44,
+    "utteranceNumber": 12,
+    "word": "her",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 119.44,
+    "end": 119.86,
+    "utteranceNumber": 12,
+    "word": "early",
+    "id": 38,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 119.86,
+    "end": 120.33,
+    "utteranceNumber": 12,
+    "word": "years",
+    "id": 39,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 120.82,
+    "end": 120.99,
+    "utteranceNumber": 13,
+    "word": "those",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 120.99,
+    "end": 121.11,
+    "utteranceNumber": 13,
+    "word": "are",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 121.11,
+    "end": 121.37,
+    "utteranceNumber": 13,
+    "word": "great",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 121.37,
+    "end": 121.89,
+    "utteranceNumber": 13,
+    "word": "goals",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 122.25,
+    "end": 122.52,
+    "utteranceNumber": 13,
+    "word": "based",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 122.52,
+    "end": 122.64,
+    "utteranceNumber": 13,
+    "word": "off",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 122.64,
+    "end": 122.97,
+    "utteranceNumber": 13,
+    "word": "that",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 123,
+    "end": 123.19,
+    "utteranceNumber": 13,
+    "word": "I'd",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 123.19,
+    "end": 123.57,
+    "utteranceNumber": 13,
+    "word": "recommend",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 123.57,
+    "end": 123.65,
+    "utteranceNumber": 13,
+    "word": "the",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 123.65,
+    "end": 123.92,
+    "utteranceNumber": 13,
+    "word": "five",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 123.92,
+    "end": 124.17,
+    "utteranceNumber": 13,
+    "word": "twenty",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 124.17,
+    "end": 124.42,
+    "utteranceNumber": 13,
+    "word": "nine",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 124.42,
+    "end": 124.97,
+    "utteranceNumber": 13,
+    "word": "education",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 124.97,
+    "end": 125.51,
+    "utteranceNumber": 13,
+    "word": "savings",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 125.74,
+    "end": 125.9,
+    "utteranceNumber": 13,
+    "word": "as",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 125.9,
+    "end": 126.09,
+    "utteranceNumber": 13,
+    "word": "this",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 126.09,
+    "end": 126.23,
+    "utteranceNumber": 13,
+    "word": "will",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 126.23,
+    "end": 126.41,
+    "utteranceNumber": 13,
+    "word": "give",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 126.41,
+    "end": 126.5,
+    "utteranceNumber": 13,
+    "word": "you",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 126.5,
+    "end": 126.6,
+    "utteranceNumber": 13,
+    "word": "the",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 126.6,
+    "end": 126.93,
+    "utteranceNumber": 13,
+    "word": "most",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 126.93,
+    "end": 127.59,
+    "utteranceNumber": 13,
+    "word": "flexibility",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 127.59,
+    "end": 127.78,
+    "utteranceNumber": 13,
+    "word": "in",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 127.78,
+    "end": 127.9,
+    "utteranceNumber": 13,
+    "word": "how",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 127.9,
+    "end": 128.07,
+    "utteranceNumber": 13,
+    "word": "you",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 128.07,
+    "end": 128.48,
+    "utteranceNumber": 13,
+    "word": "invest",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 128.48,
+    "end": 128.59,
+    "utteranceNumber": 13,
+    "word": "your",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 128.59,
+    "end": 129.11,
+    "utteranceNumber": 13,
+    "word": "funds",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 129.39,
+    "end": 129.64,
+    "utteranceNumber": 13,
+    "word": "which",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 129.64,
+    "end": 130,
+    "utteranceNumber": 13,
+    "word": "college",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 130,
+    "end": 130.47,
+    "utteranceNumber": 13,
+    "word": "expenses",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 130.47,
+    "end": 130.61,
+    "utteranceNumber": 13,
+    "word": "you",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 130.61,
+    "end": 130.78,
+    "utteranceNumber": 13,
+    "word": "pay",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 130.78,
+    "end": 130.98,
+    "utteranceNumber": 13,
+    "word": "with",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 130.98,
+    "end": 131.27,
+    "utteranceNumber": 13,
+    "word": "it",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 131.49,
+    "end": 131.62,
+    "utteranceNumber": 13,
+    "word": "and",
+    "id": 37,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 131.62,
+    "end": 131.7,
+    "utteranceNumber": 13,
+    "word": "the",
+    "id": 38,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 131.7,
+    "end": 132.01,
+    "utteranceNumber": 13,
+    "word": "choice",
+    "id": 39,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 132.01,
+    "end": 132.12,
+    "utteranceNumber": 13,
+    "word": "to",
+    "id": 40,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 132.12,
+    "end": 132.3,
+    "utteranceNumber": 13,
+    "word": "send",
+    "id": 41,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 132.3,
+    "end": 132.41,
+    "utteranceNumber": 13,
+    "word": "your",
+    "id": 42,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 132.41,
+    "end": 132.68,
+    "utteranceNumber": 13,
+    "word": "daughter",
+    "id": 43,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 132.68,
+    "end": 132.77,
+    "utteranceNumber": 13,
+    "word": "to",
+    "id": 44,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 132.8,
+    "end": 133.11,
+    "utteranceNumber": 13,
+    "word": "private",
+    "id": 46,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 133.11,
+    "end": 133.53,
+    "utteranceNumber": 13,
+    "word": "school",
+    "id": 47,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 134.08,
+    "end": 134.28,
+    "utteranceNumber": 14,
+    "word": "that",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 134.28,
+    "end": 134.57,
+    "utteranceNumber": 14,
+    "word": "makes",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 134.57,
+    "end": 135.07,
+    "utteranceNumber": 14,
+    "word": "sense",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 135.27,
+    "end": 135.49,
+    "utteranceNumber": 14,
+    "word": "tell",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 135.49,
+    "end": 135.64,
+    "utteranceNumber": 14,
+    "word": "you",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 135.64,
+    "end": 135.92,
+    "utteranceNumber": 14,
+    "word": "what",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 136.37,
+    "end": 136.56,
+    "utteranceNumber": 14,
+    "word": "let",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 136.56,
+    "end": 136.68,
+    "utteranceNumber": 14,
+    "word": "me",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 136.68,
+    "end": 136.95,
+    "utteranceNumber": 14,
+    "word": "talk",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 136.95,
+    "end": 137.08,
+    "utteranceNumber": 14,
+    "word": "with",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 137.08,
+    "end": 137.22,
+    "utteranceNumber": 14,
+    "word": "my",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 137.22,
+    "end": 137.47,
+    "utteranceNumber": 14,
+    "word": "wife",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 137.47,
+    "end": 137.75,
+    "utteranceNumber": 14,
+    "word": "about",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 137.75,
+    "end": 137.96,
+    "utteranceNumber": 14,
+    "word": "this",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 137.96,
+    "end": 138.14,
+    "utteranceNumber": 14,
+    "word": "and",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 138.14,
+    "end": 138.2,
+    "utteranceNumber": 14,
+    "word": "I'll",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 138.2,
+    "end": 138.46,
+    "utteranceNumber": 14,
+    "word": "call",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 138.46,
+    "end": 138.64,
+    "utteranceNumber": 14,
+    "word": "you",
+    "id": 18,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 138.64,
+    "end": 139.06,
+    "utteranceNumber": 14,
+    "word": "back",
+    "id": 19,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 139.35,
+    "end": 139.54,
+    "utteranceNumber": 14,
+    "word": "can",
+    "id": 20,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 139.54,
+    "end": 139.65,
+    "utteranceNumber": 14,
+    "word": "you",
+    "id": 21,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 139.65,
+    "end": 139.9,
+    "utteranceNumber": 14,
+    "word": "send",
+    "id": 22,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 139.9,
+    "end": 140.18,
+    "utteranceNumber": 14,
+    "word": "me",
+    "id": 23,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 140.22,
+    "end": 140.44,
+    "utteranceNumber": 14,
+    "word": "some",
+    "id": 24,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 140.44,
+    "end": 140.99,
+    "utteranceNumber": 14,
+    "word": "materials",
+    "id": 25,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 140.99,
+    "end": 141.11,
+    "utteranceNumber": 14,
+    "word": "to",
+    "id": 26,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 141.11,
+    "end": 141.28,
+    "utteranceNumber": 14,
+    "word": "look",
+    "id": 27,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 141.28,
+    "end": 141.64,
+    "utteranceNumber": 14,
+    "word": "over",
+    "id": 28,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 141.64,
+    "end": 141.78,
+    "utteranceNumber": 14,
+    "word": "the",
+    "id": 29,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 141.78,
+    "end": 142.28,
+    "utteranceNumber": 14,
+    "word": "details",
+    "id": 30,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 142.28,
+    "end": 142.4,
+    "utteranceNumber": 14,
+    "word": "of",
+    "id": 31,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 142.4,
+    "end": 142.55,
+    "utteranceNumber": 14,
+    "word": "what",
+    "id": 32,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 142.55,
+    "end": 142.63,
+    "utteranceNumber": 14,
+    "word": "you",
+    "id": 33,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 142.63,
+    "end": 142.82,
+    "utteranceNumber": 14,
+    "word": "told",
+    "id": 34,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 142.82,
+    "end": 142.93,
+    "utteranceNumber": 14,
+    "word": "me",
+    "id": 35,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 142.93,
+    "end": 143.21,
+    "utteranceNumber": 14,
+    "word": "today",
+    "id": 36,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 143.84,
+    "end": 144.25,
+    "utteranceNumber": 15,
+    "word": "sure",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 144.29,
+    "end": 144.44,
+    "utteranceNumber": 15,
+    "word": "I'd",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 144.44,
+    "end": 144.52,
+    "utteranceNumber": 15,
+    "word": "be",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 144.52,
+    "end": 144.78,
+    "utteranceNumber": 15,
+    "word": "happy",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 144.78,
+    "end": 145.09,
+    "utteranceNumber": 15,
+    "word": "to",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 145.17,
+    "end": 145.29,
+    "utteranceNumber": 15,
+    "word": "I'll",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 145.29,
+    "end": 145.59,
+    "utteranceNumber": 15,
+    "word": "email",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 145.59,
+    "end": 145.81,
+    "utteranceNumber": 15,
+    "word": "over",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 145.81,
+    "end": 145.92,
+    "utteranceNumber": 15,
+    "word": "the",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 145.92,
+    "end": 146.35,
+    "utteranceNumber": 15,
+    "word": "details",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 146.35,
+    "end": 146.48,
+    "utteranceNumber": 15,
+    "word": "to",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 146.48,
+    "end": 146.59,
+    "utteranceNumber": 15,
+    "word": "you",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 146.59,
+    "end": 146.79,
+    "utteranceNumber": 15,
+    "word": "right",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 146.79,
+    "end": 147.04,
+    "utteranceNumber": 15,
+    "word": "after",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 147.04,
+    "end": 147.2,
+    "utteranceNumber": 15,
+    "word": "this",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 147.2,
+    "end": 147.6,
+    "utteranceNumber": 15,
+    "word": "call",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 148.1,
+    "end": 148.53,
+    "utteranceNumber": 16,
+    "word": "great",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 148.66,
+    "end": 149.11,
+    "utteranceNumber": 16,
+    "word": "sounds",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 149.11,
+    "end": 149.49,
+    "utteranceNumber": 16,
+    "word": "good",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 149.86,
+    "end": 149.96,
+    "utteranceNumber": 16,
+    "word": "I",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 149.96,
+    "end": 150.33,
+    "utteranceNumber": 16,
+    "word": "really",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 150.33,
+    "end": 150.88,
+    "utteranceNumber": 16,
+    "word": "appreciate",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 150.88,
+    "end": 150.98,
+    "utteranceNumber": 16,
+    "word": "the",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 150.98,
+    "end": 151.25,
+    "utteranceNumber": 16,
+    "word": "help",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 151.74,
+    "end": 151.94,
+    "utteranceNumber": 17,
+    "word": "sure",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 151.94,
+    "end": 152.29,
+    "utteranceNumber": 17,
+    "word": "thing",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 152.5,
+    "end": 152.62,
+    "utteranceNumber": 17,
+    "word": "is",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 152.62,
+    "end": 152.72,
+    "utteranceNumber": 17,
+    "word": "there",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 152.72,
+    "end": 153.05,
+    "utteranceNumber": 17,
+    "word": "anything",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.05,
+    "end": 153.27,
+    "utteranceNumber": 17,
+    "word": "else",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.27,
+    "end": 153.33,
+    "utteranceNumber": 17,
+    "word": "I",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.33,
+    "end": 153.48,
+    "utteranceNumber": 17,
+    "word": "can",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.48,
+    "end": 153.64,
+    "utteranceNumber": 17,
+    "word": "help",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.64,
+    "end": 153.72,
+    "utteranceNumber": 17,
+    "word": "you",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.72,
+    "end": 153.86,
+    "utteranceNumber": 17,
+    "word": "with",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 153.86,
+    "end": 154.22,
+    "utteranceNumber": 17,
+    "word": "today",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 154.73,
+    "end": 155.17,
+    "utteranceNumber": 18,
+    "word": "nope",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 155.17,
+    "end": 155.42,
+    "utteranceNumber": 18,
+    "word": "that's",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 155.42,
+    "end": 155.63,
+    "utteranceNumber": 18,
+    "word": "it",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 156.06,
+    "end": 156.18,
+    "utteranceNumber": 18,
+    "word": "I'll",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 156.18,
+    "end": 156.42,
+    "utteranceNumber": 18,
+    "word": "call",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 156.42,
+    "end": 156.55,
+    "utteranceNumber": 18,
+    "word": "you",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 156.55,
+    "end": 156.79,
+    "utteranceNumber": 18,
+    "word": "back",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 156.79,
+    "end": 156.97,
+    "utteranceNumber": 18,
+    "word": "once",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 156.97,
+    "end": 157.03,
+    "utteranceNumber": 18,
+    "word": "I",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 157.03,
+    "end": 157.31,
+    "utteranceNumber": 18,
+    "word": "talk",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 157.31,
+    "end": 157.44,
+    "utteranceNumber": 18,
+    "word": "with",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 157.44,
+    "end": 157.57,
+    "utteranceNumber": 18,
+    "word": "my",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 157.57,
+    "end": 157.89,
+    "utteranceNumber": 18,
+    "word": "wife",
+    "id": 13,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 158.22,
+    "end": 158.51,
+    "utteranceNumber": 18,
+    "word": "looking",
+    "id": 14,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 158.51,
+    "end": 158.85,
+    "utteranceNumber": 18,
+    "word": "forward",
+    "id": 15,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 158.85,
+    "end": 158.98,
+    "utteranceNumber": 18,
+    "word": "to",
+    "id": 16,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 1,
+    "start": 158.98,
+    "end": 159.11,
+    "utteranceNumber": 18,
+    "word": "it",
+    "id": 17,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 159.69,
+    "end": 159.96,
+    "utteranceNumber": 19,
+    "word": "sounds",
+    "id": 1,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 159.96,
+    "end": 160.24,
+    "utteranceNumber": 19,
+    "word": "good",
+    "id": 2,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 160.35,
+    "end": 160.5,
+    "utteranceNumber": 19,
+    "word": "I'll",
+    "id": 3,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 160.5,
+    "end": 160.59,
+    "utteranceNumber": 19,
+    "word": "be",
+    "id": 4,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 160.59,
+    "end": 160.75,
+    "utteranceNumber": 19,
+    "word": "here",
+    "id": 5,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 160.75,
+    "end": 160.85,
+    "utteranceNumber": 19,
+    "word": "to",
+    "id": 6,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 160.85,
+    "end": 161.31,
+    "utteranceNumber": 19,
+    "word": "chat",
+    "id": 7,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 161.4,
+    "end": 161.61,
+    "utteranceNumber": 19,
+    "word": "talk",
+    "id": 8,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 161.61,
+    "end": 161.71,
+    "utteranceNumber": 19,
+    "word": "to",
+    "id": 9,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 161.71,
+    "end": 161.79,
+    "utteranceNumber": 19,
+    "word": "you",
+    "id": 10,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 161.79,
+    "end": 162.03,
+    "utteranceNumber": 19,
+    "word": "soon",
+    "id": 11,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 162.23,
+    "end": 162.32,
+    "utteranceNumber": 19,
+    "word": "bye",
+    "id": 12,
+    "offsetBegin": 1
+  },
+  {
+    "channel": 0,
+    "start": 162.32,
+    "end": 162.6,
+    "utteranceNumber": 19,
+    "word": "bye",
+    "id": 13,
+    "offsetBegin": 1
+  }
+]

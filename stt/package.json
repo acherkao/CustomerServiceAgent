@@ -1,0 +1,29 @@
+{
+  "name": "stt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ts-node watsonSpeechToText.ts",
+    "stt": "ts-node app.ts",
+    "update": "ts-node updateUtterance.ts", 
+    "radar": "ts-node convertSentimentToRadar.ts",
+    "run-stt": "npm run stt --",
+    "run-update": "npm run update --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "file-type": "^19.0.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "ibm-watson": "^8.0.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.11.25"
+  }
+}

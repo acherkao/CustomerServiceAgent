@@ -1,0 +1,844 @@
+{
+  "data": [
+    {
+      "utteranceNumber": 0,
+      "timestamp": 0,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 100
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 100
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 100
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 1,
+      "timestamp": 4,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 4
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 96
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 2,
+      "timestamp": 27,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 6
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 94
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 4
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 96
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 3,
+      "timestamp": 48,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 32
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 67
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 6
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 94
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 4,
+      "timestamp": 52,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 75
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 24
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 32
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 5,
+      "timestamp": 64,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 72
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 27
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 75
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 24
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 6,
+      "timestamp": 69,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 25
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 75
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 72
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 27
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 7,
+      "timestamp": 79,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 55
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 45
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 25
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 8,
+      "timestamp": 81,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 41
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 59
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 55
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 45
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 9,
+      "timestamp": 88,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 6
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 94
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 41
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 10,
+      "timestamp": 105,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 5
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 95
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 6
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 94
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 11,
+      "timestamp": 113,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 14
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 86
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 5
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 12,
+      "timestamp": 115,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 64
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 35
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 14
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 86
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 13,
+      "timestamp": 144,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 2
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 98
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 64
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 35
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 14,
+      "timestamp": 150,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 7
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 93
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 2
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 98
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 15,
+      "timestamp": 161,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 14
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 86
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 7
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 93
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 16,
+      "timestamp": 162,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 14
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 86
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 14
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 86
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 17,
+      "timestamp": 174,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 7
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 93
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 14
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 86
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 18,
+      "timestamp": 178,
+      "entries": [
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 2
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 98
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 7
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 93
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "utteranceNumber": 19,
+      "timestamp": 185,
+      "entries": [
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 3
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 97
+        },
+        {
+          "user": "Agent",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "neutral",
+          "score": 2
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "positive",
+          "score": 98
+        },
+        {
+          "user": "Customer",
+          "product": "Ongoing call",
+          "feature": "negative",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

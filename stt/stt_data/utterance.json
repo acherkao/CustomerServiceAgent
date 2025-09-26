@@ -1,0 +1,135 @@
+[
+  {
+    "utteranceNumber": 1,
+    "text": "thank you for calling general bank customer service how can I help you today Mister Kelly",
+    "start": 0,
+    "end": 3.83,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 2,
+    "text": "Hey there so I recently transferred some money from my general plus savings account to cover an overdraft fee in my checking account at another bank I'm getting fed up with having to move my money between banks all I want is to somehow consolidate my funds in one place I'm also really frustrated with having to pay so much in overdraft fees at my other bank and I'm struggling to find ways to stay out of debt do you have any advice",
+    "start": 4.18,
+    "end": 26.64,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 3,
+    "text": "sure I'd be happy to help I know debt can seem pretty scary on the surface but general bank offers many avenues for relief I recommend opening a general plus checking account with us this account has no overdraft fees a two hundred dollar negative balance buffer and overdraft protection when paired with your existing general plus savings is this something you'd be interested in",
+    "start": 27.01,
+    "end": 47.46,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 4,
+    "text": "yeah that sounds great but how can I actually help the existing debt I have",
+    "start": 48.01,
+    "end": 51.87,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 5,
+    "text": "that's a great question so first off I'll be sure to send you more info on the general plus checking account in regard to your current debt situation may I ask what type of transactions are causing you to over draft with your other bank",
+    "start": 52.45,
+    "end": 63.47,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 6,
+    "text": "I'm honestly a little ashamed of this but it's because I keep owing debt on my external credit card",
+    "start": 63.99,
+    "end": 68.75,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 7,
+    "text": "no worries that's exactly where we can help perhaps I can offer you some general bank credit card deals to see if they would help you consolidate your debt with the lower APR would you want to hear more",
+    "start": 69.15,
+    "end": 78.79,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 8,
+    "text": "sure why not",
+    "start": 79.87,
+    "end": 80.44,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 9,
+    "text": "okay great can you tell me more about the APR on the credit card you currently have and also the type of places you frequently spend at",
+    "start": 81,
+    "end": 87.52,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 10,
+    "text": "I currently have a twenty nine point three three percent APR on my card which I think is highway robbery I'm a huge foodie so I tend to spend a lot at restaurants and groceries for my weeknight meals with my wife I also commute quite a bit for work so I spend a lot on gas sadly",
+    "start": 88.11,
+    "end": 104.54,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 11,
+    "text": "got it so general bank has three main credit cards and I believe that the prime power credit card would be the best fit for your situation would you like to hear more",
+    "start": 104.75,
+    "end": 112.85,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 12,
+    "text": "yeah go for it",
+    "start": 113.4,
+    "end": 114.47,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 13,
+    "text": "the prime power card has zero percent intro APR for the first fifteen months and as low as sixteen point four nine percent after that based on your credit score this way you can focus on paying off the debt on your other card well having some breathing room and a fresh start with this general bank card also I hear that you have to drive a lot for work and you love shopping for food and this card earns you three percent cash back on groceries two percent on gas and one percent on everything else over time your savings will add up how does this sound to you",
+    "start": 115.14,
+    "end": 143.64,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 14,
+    "text": "amazing that sounds like a major improvement over my current situation how can I get started",
+    "start": 144.19,
+    "end": 149.52,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 15,
+    "text": "applying is simple and quick I'll send over an application and you should hear back of your approval almost instantly just to confirm is Paul Kelly at email dot com a good contact for you",
+    "start": 149.95,
+    "end": 160.14,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 16,
+    "text": "yes that works",
+    "start": 160.6,
+    "end": 161.85,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 17,
+    "text": "great I will send that email over containing information on the prime power card application and the general plus checking account along with a summary of all the advice we talked about today is there anything else I can help you with",
+    "start": 162.16,
+    "end": 173.31,
+    "channel": 0
+  },
+  {
+    "utteranceNumber": 18,
+    "text": "that's it for now thank you for all the help I feel a lot better now",
+    "start": 173.88,
+    "end": 177.89,
+    "channel": 1
+  },
+  {
+    "utteranceNumber": 19,
+    "text": "you're very welcome glad I could assist if you have any other questions don't hesitate to reach back out best of luck take care",
+    "start": 178.29,
+    "end": 184.98,
+    "channel": 0
+  }
+]

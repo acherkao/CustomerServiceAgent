@@ -1,0 +1,135 @@
+[
+  {
+    "channel": 0,
+    "utteranceNumber": 1,
+    "score": 0.964926,
+    "label": "positive",
+    "timestamp": 4
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 2,
+    "score": -0.941029,
+    "label": "negative",
+    "timestamp": 27
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 3,
+    "score": -0.674972,
+    "label": "negative",
+    "timestamp": 48
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 4,
+    "score": 0.945123,
+    "label": "positive",
+    "timestamp": 52
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 5,
+    "score": 0.596872,
+    "label": "positive",
+    "timestamp": 64
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 6,
+    "score": -0.937945,
+    "label": "negative",
+    "timestamp": 69
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 7,
+    "score": 0.455492,
+    "label": "positive",
+    "timestamp": 79
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 8,
+    "score": -0.596595,
+    "label": "negative",
+    "timestamp": 81
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 9,
+    "score": 0.949247,
+    "label": "positive",
+    "timestamp": 88
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 10,
+    "score": -0.953523,
+    "label": "negative",
+    "timestamp": 105
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 11,
+    "score": 0.865644,
+    "label": "positive",
+    "timestamp": 113
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 12,
+    "score": 0.578728,
+    "label": "positive",
+    "timestamp": 115
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 13,
+    "score": 0.981691,
+    "label": "positive",
+    "timestamp": 144
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 14,
+    "score": 0.93505,
+    "label": "positive",
+    "timestamp": 150
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 15,
+    "score": 0.868978,
+    "label": "positive",
+    "timestamp": 161
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 16,
+    "score": 0.865698,
+    "label": "positive",
+    "timestamp": 162
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 17,
+    "score": 0.933071,
+    "label": "positive",
+    "timestamp": 174
+  },
+  {
+    "channel": 1,
+    "utteranceNumber": 18,
+    "score": 0.988687,
+    "label": "positive",
+    "timestamp": 178
+  },
+  {
+    "channel": 0,
+    "utteranceNumber": 19,
+    "score": 0.975488,
+    "label": "positive",
+    "timestamp": 185
+  }
+]
