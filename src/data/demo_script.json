@@ -1,0 +1,485 @@
+{
+  "dramatis_personae": {
+    "customer": {
+      "icon": "david.png",
+      "name": "Paul Kelly"
+    },
+    "agent": {
+      "icon": "isaac2.jpg",
+      "name": "Isaac Ke"
+    }
+  },
+  "customer_profile": {
+    "phone_number": "+1 (123) 456-7890",
+    "sub_title": "Customer since 2020",
+    "rows": [
+      {
+        "name": "Customer Id",
+        "value": "23451234",
+        "tag": false
+      },
+      {
+        "name": "Geography",
+        "value": "US-Southwest",
+        "tag": false
+      },
+      {
+        "name": "Address",
+        "value": "1234 Main Street Drive, CA 12345",
+        "tag": false
+      },
+      {
+        "name": "Age",
+        "value": "35",
+        "tag": false
+      },
+      {
+        "name": "Gender",
+        "value": "Male",
+        "tag": false
+      },
+      {
+        "name": "Marital Status",
+        "value": "Married",
+        "tag": true
+      },
+      {
+        "name": "Churn Risk",
+        "value": "Low",
+        "tag": true
+      },
+      {
+        "name": "Active Accounts",
+        "value": "General Plus Savings",
+        "tag": true
+      },
+      {
+        "name": "Credit Cards",
+        "value": "none",
+        "tag": true
+      }
+    ]
+  },
+  "account_activity": {
+    "timestamp": 13,
+    "icon": "fake_bank.png",
+    "rows": [
+      {
+        "name": "Account",
+        "value": "General Plus Savings"
+      },
+      {
+        "name": "Balance",
+        "value": "$5,674.21"
+      },
+      {
+        "name": "Account number",
+        "value": "0987654321"
+      },
+      {
+        "name": "Routing number",
+        "value": "123456789"
+      },
+      {
+        "name": "Last deposit",
+        "value": "11/01/2023 ($2,560)"
+      },
+      {
+        "name": "Last withdrawal",
+        "value": "11/04/2023 ($873)"
+      }
+    ]
+  },
+  "call_template_checklist": [
+    {
+      "label": "Greet",
+      "timestamp": 5,
+      "completed": false
+    },
+    {
+      "label": "Assess",
+      "timestamp": 65,
+      "completed": false
+    },
+    {
+      "label": "Assist",
+      "timestamp": 156,
+      "completed": false
+    },
+    {
+      "label": "Summarize",
+      "timestamp": 167,
+      "completed": false
+    },
+    {
+      "label": "Confirm",
+      "timestamp": 172,
+      "completed": false
+    },
+    {
+      "label": "Wrap Up",
+      "timestamp": 180,
+      "completed": false
+    }
+  ],
+  "knowledge_lookup": [
+    {
+      "timestamp": 24,
+      "query": [
+        "What is the General Plus Checking account?"
+      ],
+      "queryTerm": "General Plus Checking",
+      "tag": [
+        "General Plus Checking"
+      ]
+    },
+    {
+      "timestamp": 66,
+      "query": [
+        "What is the General Bank Prime Power Credit Card?",
+        "What is the General Bank Cash Flex Credit Card?"
+      ],
+      "queryTerm": "General Bank credit cards",
+      "tag": [
+        "General Bank Prime Power Credit Card",
+        "General Bank Cash Flex Credit Card"
+      ]
+    }
+  ],
+  "recommended_actions": [
+    {
+      "timestamp": 26,
+      "type": "Suggest",
+      "action": "General Plus Checking to customer"
+    },
+    {
+      "timestamp": 71,
+      "type": "Suggest",
+      "action": "General Bank credit cards options"
+    },
+    {
+      "timestamp": 106,
+      "type": "Recommend",
+      "action": "the Prime Power credit card as customer's best option"
+    },
+    {
+      "timestamp": 151,
+      "type": "Confirm",
+      "action": "customer email and send application"
+    },
+    {
+      "timestamp": 163,
+      "type": "Summarize",
+      "action": "Action items and offer additional help"
+    }
+  ],
+  "followup_actions": [
+    {
+      "timestamp": 61,
+      "value": "Send information on General Plus Checking account"
+    },
+    {
+      "timestamp": 158,
+      "value": "Send Prime Power Credit Card application"
+    },
+    {
+      "timestamp": 175,
+      "value": "Send a follow-up email with Prime Power Credit Card application, info on General Plus Checking, and summary of meeting"
+    }
+  ],
+  "demo_transcript": [
+    {
+      "type": "Agent",
+      "message": "Thank you for calling General Bank customer service, how can I help you today Mr. Kelly?"
+    },
+    {
+      "type": "Customer",
+      "message": "Hey there, so I recently transferred some money from my General Plus Savings account to cover an overdraft fee on my checking account at another bank. I’m getting fed up with having to move my money between banks. All I want is to somehow consolidate my funds in one place. I’m also really frustrated with having to pay so much in overdraft fees at my other bank, and I’m struggling to find ways to stay out of debt. Do you have any advice?"
+    },
+    {
+      "type": "Agent",
+      "message": "Sure, I’d be happy to help. I know debt can seem scary on the surface, but General Bank offers many avenues for relief. I recommend opening a General Plus Checking account with us. This account has no overdraft fees, a $200 negative balance buffer, and overdraft protection when paired with your existing General Plus Savings. Is this something you’d be interested in?"
+    },
+    {
+      "type": "Customer",
+      "message": "Ya that sounds great, but how can I actively help the existing debt I have?"
+    },
+    {
+      "type": "Agent",
+      "message": "That’s a great question. So first off, I’ll be sure to send you more info on the General Plus Checking account. In regard to your current debt situation, may I ask what type of transactions are causing you to overdraft with your other bank?"
+    },
+    {
+      "type": "Customer",
+      "message": "I’m honestly a little ashamed of this, but it’s because I keep owing debt on my external credit card."
+    },
+    {
+      "type": "Agent",
+      "message": "No worries, that’s exactly where we can help. Perhaps I can offer you some General Bank credit card deals to see if they would help you consolidate your debt with a lower APR. Would you want to hear more?"
+    },
+    {
+      "type": "Customer",
+      "message": "Sure, why not?"
+    },
+    {
+      "type": "Agent",
+      "message": "Ok great. Can you tell me more about the APR on the credit card you currently have, and also the type of places you frequently spend at?"
+    },
+    {
+      "type": "Customer",
+      "message": "I currently have a 29.33% APR on my card, which I think is highway robbery. I’m a huge foodie so I tend to spend a lot at restaurants and on groceries for my weeknight meals with my wife. I also commute quite a bit for work, so I spend a lot on gas, sadly."
+    },
+    {
+      "type": "Agent",
+      "message": "Got it, so General Bank has three main credit cards, and I believe that the Prime Power Credit Card would be the best fit for your situation. Would you like to hear more?"
+    },
+    {
+      "type": "Customer",
+      "message": "Yeah, go for it."
+    },
+    {
+      "type": "Agent",
+      "message": "The Prime Power Card has 0% intro APR for the first 15 months, and as low as 16.49% after that, based on your credit score. This way, you can focus on paying off the debt on your other card while having some breathing room and a fresh start with this General Bank card. Also, I hear that you have to drive a lot for work and you love shopping for food, and this card earns you 3% cash back on groceries, 2% on gas, and 1% on everything else. Over time your savings will add up! How does this sound to you?"
+    },
+    {
+      "type": "Customer",
+      "message": "Amazing, that sounds like a major improvement over my current situation. How can I get started?"
+    },
+    {
+      "type": "Agent",
+      "message": "Applying is simple and quick. I’ll send over an application, and you should hear back of your approval almost instantly. Just to confirm, is paulkelly@email.com a good contact for you?"
+    },
+    {
+      "type": "Customer",
+      "message": "Yes, that works"
+    },
+    {
+      "type": "Agent",
+      "message": "Great, I will send that email over containing information on the Prime Power card application and the General Plus checking account, along with a summary of all the advice we talked about today. Is there anything else I can help you with?"
+    },
+    {
+      "type": "Customer",
+      "message": "That’s it for now, thank you for all the help! I feel a lot better now."
+    },
+    {
+      "type": "Agent",
+      "message": "You’re very welcome, glad I could assist! If you have any other questions, don’t hesitate to reach back out. Best of luck! Take care."
+    }
+  ],
+  "contact_history_data": [
+    {
+      "date": "7/01/2023",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good afternoon. Thank you for calling General Bank. My name is Lisa. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Lisa, I need to dispute an unwanted withdrawal on my savings account. I'm really upset about it."
+        },
+        {
+          "type": "Agent",
+          "message": "I'm sorry to hear that you're upset. I'll do my best to help you with your withdrawal dispute. Could you please provide your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "It's 1234567890."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. Can you please provide more details about the account activity in question and what's concerning you?"
+        },
+        {
+          "type": "Customer",
+          "message": "I saw an unauthorized withdrawal on my account which I didn’t make. I’ve been trying to get in touch with the bank for days, and nobody seems to care about resolving this issue. I'm really frustrated."
+        },
+        {
+          "type": "Agent",
+          "message": "I apologize for the inconvenience you've faced and understand your frustration. Let me look into this for you. Can you provide the withdrawal ID and amount?"
+        },
+        {
+          "type": "Customer",
+          "message": "The withdrawal was on October 25th at 2:30 PM for $2,000. The ID is 234567."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for the information. I'll start an investigation into this issue and escalate it to our dispute resolution team. I'll provide you with a reference number for tracking. Please expect a call from them within the next few business days."
+        },
+        {
+          "type": "Customer",
+          "message": "Finally, some action. I hope this gets resolved soon. I will have to think about if I still want to do business with you all."
+        },
+        {
+          "type": "Agent",
+          "message": "I sincerely apologize for this experience. We certainly don't want to lose you as a customer and will do our best to rectify this situation. If you have any other concerns, please don't hesitate to let us know."
+        }
+      ]
+    },
+    {
+      "date": "4/11/2023",
+      "tag": "Mobile App",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good morning! Thank you for calling General Bank. My name is Sarah. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Sarah, I'd like to check the balance of my savings account."
+        },
+        {
+          "type": "Agent",
+          "message": "Of course, I'd be happy to help with that. Could you please provide me with your account number or your social security number to verify your identity?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my account number is 1234567890."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. One moment while I access your account... Alright, I can see your General Plus Savings account. Your current balance is $5,243.68. Is there anything else you'd like to inquire about or any other assistance you need?"
+        },
+        {
+          "type": "Customer",
+          "message": "Awesome, that’s a lot more money than I expected, which is great news! That's all I needed, Sarah. Thanks for your help!"
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome! If you have any more questions or need assistance in the future, please don't hesitate to reach out. Have a great day!"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2022",
+      "tag": "Web Chat",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Hi there, Paul. Thank you for calling General Bank customer service. My name is Michael. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Michael, I'm really frustrated right now. I tried to transfer money from my external bank account to my General Plus savings account, and it's not showing up in my account."
+        },
+        {
+          "type": "Agent",
+          "message": "I'm sorry to hear about the trouble you're facing, and I understand your frustration. Can you please provide me with your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "It's 1234567890."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. To better assist you, could you share the details of the external bank transfer, such as the date, amount, and the transaction reference number if you have it?"
+        },
+        {
+          "type": "Customer",
+          "message": "I initiated the transfer on October 20th, for $2,000, and the reference number is 987654."
+        },
+        {
+          "type": "Agent",
+          "message": "Okay, it appears that there might be a delay in processing the funds into your General Bank savings account. We'll investigate this further and work to resolve it as soon as possible. You will receive an email notification once the funds are successfully deposited."
+        },
+        {
+          "type": "Customer",
+          "message": "This is really frustrating, Michael. I needed that money for an important bill."
+        },
+        {
+          "type": "Agent",
+          "message": "I completely understand your concerns, and I apologize for the inconvenience. Our team is actively working on resolving this for you. If you have any other questions or need further assistance, please feel free to reach out."
+        },
+        {
+          "type": "Customer",
+          "message": "Okay, I hope this gets sorted out soon. I’m starting to get fed up with all this hassle."
+        },
+        {
+          "type": "Agent",
+          "message": "Sure, I understand. We will do our best to resolve this promptly. If you have any further questions or concerns, don't hesitate to contact us. Bye now."
+        }
+      ]
+    },
+    {
+      "date": "9/02/2022",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good morning! Thank you for calling General Bank. My name is Rachel. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Rachel, I was wondering if I can set up early direct deposit for my savings account. Is that possible?"
+        },
+        {
+          "type": "Agent",
+          "message": "Sure thing! Early direct deposit can be a fantastic way to access your funds a bit sooner. To better assist you, could you please provide me with your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my account number is 9876543210."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. To set up early direct deposit for your savings account, you will need to check with your employer or the entity that deposits your funds. They can often arrange for your paychecks to be deposited a day or two earlier than the regular payday. It's a feature available through your employer's payroll process."
+        },
+        {
+          "type": "Customer",
+          "message": "I see. I'll get in touch with my employer and see if they can arrange that. Thanks for your help, Rachel! Much appreciated."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome! If you have any more questions or need further assistance in the future, please don't hesitate to reach out. Have a great day, and I hope you can enjoy the benefits of early direct deposit soon!"
+        }
+      ]
+    },
+    {
+      "date": "3/08/2022",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good evening, Paul. Thank you for choosing General Bank. My name is Emily. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Emily, I'd like to set up a General Plus Savings account. Can you guide me through the process?"
+        },
+        {
+          "type": "Agent",
+          "message": "Absolutely, I'd be happy to help you with that. To get started, I'll need some information from you. Could you please provide your full name, date of birth, and social security number for account setup and verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my name is Paul Kelly, my date of birth is June 15, 1985, and my social security number is 123-45-6789."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you, Paul. Let me enter that information and create your savings account. All right, your account is now set up. You've got a new General Plus savings account with the account number 9876543210. Is there an initial deposit you'd like to make today?"
+        },
+        {
+          "type": "Customer",
+          "message": "I'd like to deposit $1,000 to start."
+        },
+        {
+          "type": "Agent",
+          "message": "Perfect. I've set up your account with the initial $1,000 deposit. Your account is now active and ready to use. You can access it online or at any General Bank branch. Is there anything else you'd like to know or do regarding your new savings account?"
+        },
+        {
+          "type": "Customer",
+          "message": "That's it for now, Emily. Thanks for your assistance. You were a great help, and I’m excited about this new account."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome, Paul! If you ever have more questions or need help with your account in the future, please feel free to reach out. We appreciate your business and are here to assist you. Have a wonderful day!"
+        }
+      ]
+    }
+  ]
+}

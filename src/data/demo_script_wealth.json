@@ -1,0 +1,499 @@
+{
+  "dramatis_personae": {
+    "customer": {
+      "icon": "david.png",
+      "name": "David Johnson"
+    },
+    "agent": {
+      "icon": "isaac2.jpg",
+      "name": "Isaac Ke"
+    }
+  },
+  "account_activity": {
+    "timestamp": 13,
+    "icon": "stock_portfolio.png",
+    "rows": [
+      {
+        "name": "Account",
+        "value": "General Plus Retirement"
+      },
+      {
+        "name": "Current Value",
+        "value": "$115,674.21"
+      },
+      {
+        "name": "Total Gain/Loss",
+        "value": "+$16,597.89"
+      },
+      {
+        "name": "Account Number",
+        "value": "0987654321"
+      },
+      {
+        "name": "Routing Number",
+        "value": "123456789"
+      },
+      {
+        "name": "Last Contribution",
+        "value": "03/01/2024 ($198.36)"
+      }
+    ]
+  },
+  "customer_profile": {
+    "phone_number": "+1 (123) 456-7890",
+    "sub_title": "Customer since 2020",
+    "rows": [
+      {
+        "name": "Customer Id",
+        "value": "23451234",
+        "tag": false
+      },
+      {
+        "name": "Geography",
+        "value": "US-Southwest",
+        "tag": false
+      },
+      {
+        "name": "Address",
+        "value": "1234 Main Street Drive, CA 12345",
+        "tag": false
+      },
+      {
+        "name": "Age",
+        "value": "35",
+        "tag": false
+      },
+      {
+        "name": "Gender",
+        "value": "Male",
+        "tag": false
+      },
+      {
+        "name": "Marital Status",
+        "value": "Married",
+        "tag": true
+      },
+      {
+        "name": "Active Accounts",
+        "value": "General Plus Retirement",
+        "tag": true
+      },
+      {
+        "name": "Risk Tolerance",
+        "value": "Moderate",
+        "tag": true
+      },
+      
+      {
+        "name": "Target Retirement",
+        "value": "2055",
+        "tag": true
+      }
+    ]
+  },
+  "call_template_checklist": [
+    {
+      "label": "Greet",
+      "timestamp": 11.6,
+      "completed": false
+    },
+    {
+      "label": "Assess",
+      "timestamp": 72.45,
+      "completed": false
+    },
+    {
+      "label": "Assist",
+      "timestamp": 133.53,
+      "completed": false
+    },
+    {
+      "label": "Summarize",
+      "timestamp": 147.6,
+      "completed": false
+    },
+    {
+      "label": "Confirm",
+      "timestamp": 159.11,
+      "completed": false
+    },
+    {
+      "label": "Wrap Up",
+      "timestamp": 162.6,
+      "completed": false
+    }
+  ],
+  "knowledge_lookup": [
+    {
+      "timestamp": 39.16,
+      "query": [
+        "What is a 529 plan?"
+      ],
+      "queryTerm": "529 Plan",
+      "tag": [
+        "529 Plan"
+      ]
+    },
+    {
+      "timestamp": 78.85,
+      "query": [
+        "What is the education savings plan?",
+        "What is the prepaid tuition plan?"
+      ],
+      "queryTerm": "529 Plan Investment Options",
+      "tag": [
+        "529 Education Savings Plan",
+        "529 Prepaid Tuition Plan"
+      ]
+    }
+  ],
+  "recommended_actions": [
+    {
+      "timestamp": 39.16,
+      "type": "Suggest",
+      "action": "529 plan to customer"
+    },
+    {
+      "timestamp": 78.85,
+      "type": "Ask",
+      "action": "about David's desires for Madeline's education"
+    },
+    {
+      "timestamp": 120.33,
+      "type": "Recommend",
+      "action": "529 education savings plan as customer's best option"
+    }
+  ],
+  "followup_actions": [
+    {
+      "timestamp": 146.6,
+      "value": "Send email with information on 529 education savings plan"
+    },
+    {
+      "timestamp": 159.11,
+      "value": "Follow-up call with David"
+    }
+  ],
+  "demo_transcript": [
+    {
+      "type": "Agent",
+      "message": "Hey David, good afternoon! How’s it going?"
+    },
+    {
+      "type": "Customer",
+      "message": "Hi Isaac, I'm doing good. How about yourself?"
+    },
+    {
+      "type": "Agent",
+      "message": "I’m doing fine, thanks for asking. Last time we spoke you mentioned your daughter was about to be born. Any big update?"
+    },
+    {
+      "type": "Customer",
+      "message": "Yes! Thanks for asking. My wife had little Madeline early last month! She’s the cutest, most precious joy in our lives right now. It has been such a blessing to be a father for the first time."
+    },
+    {
+      "type": "Agent",
+      "message": "Wow, congratulations! That warms my heart to hear. I’m so happy for you!"
+    },
+    {
+      "type": "Customer",
+      "message": "Thanks, Isaac, it means a lot. Speaking of my daughter, I was calling to ask for some advice. We want to be able to send our daughter to college when she grows up. Is there any way we can start preparing for that now?"
+    },
+    {
+      "type": "Agent",
+      "message": "Yes, for sure. First off, I applaud you for being so proactive. One of the most popular ways to start saving for college is through a 529 Plan. Have you heard of this before?"
+    },
+    {
+      "type": "Customer",
+      "message": "No, can you explain?"
+    },
+    {
+      "type": "Agent",
+      "message": "Sure, so a 529 plan is a tax-advantaged savings plan to help pay for education. This means that the money in it grows tax-deferred until it is withdrawn to pay for qualifying education expenses. There are different investment options offered depending on your risk tolerance and child’s age. There are two main types: education savings plans and prepaid tuition plans."
+    },
+    {
+      "type": "Customer",
+      "message": "Oh this is cool! I’m definitely interested now. What’s the difference between the two plans you mentioned?"
+    },
+    {
+      "type": "Agent",
+      "message": "Good question, so the 529 savings plan is definitely more popular. This plan allows you to invest money that will grow and eventually give you flexibility to pay for education expenses for K-12 and college. On the other hand, a prepaid tuition plan allows you to pay for future college tuition locked in at today’s price. The credits you purchase then have to be used for qualified expenses for a set list of colleges. To help you pick one, can you tell me about your desires and goals for Madeline’s education?"
+    },
+    {
+      "type": "Customer",
+      "message": "Yeah sure, so my wife and I want to give Maddie the ability to pick whichever college option that best suits her talents and aspirations. We’re also considering sending her to private school at least in her early years. "
+    },
+    {
+      "type": "Agent",
+      "message": "Those are great goals. Based off that, I’d recommend the 529 education savings, as this will give you the most flexibility in how you invest your funds, which college expenses you pay with it, and the choice to send your daughter to private school. "
+    },
+    {
+      "type": "Customer",
+      "message": "That makes sense. Tell you what - let me talk with my wife about this and I’ll call you back. Can you send me some materials to look over the details of what you told me today?"
+    },
+    {
+      "type": "Agent",
+      "message": "Sure, I’d be happy to! I’ll email over the details to you right after this call."
+    },
+    {
+      "type": "Customer",
+      "message": "Great, sounds good! I really appreciate the help. "
+    },
+    {
+      "type": "Agent",
+      "message": "Sure thing. Is there anything else I can help you with today?"
+    },
+    {
+      "type": "Customer",
+      "message": "No, that’s it. I’ll call you back once I talk with my wife. Looking forward to it."
+    },
+    {
+      "type": "Agent",
+      "message": "Sounds good, I’ll be here to chat. Talk to you soon, bye bye."
+    }
+  ],
+  "contact_history_data": [
+    {
+      "date": "7/01/2023",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good afternoon, welcome to General Bank Wealth Management. My name is Isaac. How can I assist you today, David?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Isaac, I would like to review the performance of my investments. I'm having a baby soon and would like to have my finances in order."
+        },
+        {
+          "type": "Agent",
+          "message": "Congratulations on the baby, David! Let me pull up your account. Based on the past year, your investments have returned 8%."
+        },
+        {
+          "type": "Customer",
+          "message": "That's not bad. How does that compare to the market?"
+        },
+        {
+          "type": "Agent",
+          "message": "Your investments have slightly outperformed the market, which has returned 7% over the same period."
+        },
+        {
+          "type": "Customer",
+          "message": "That's good to hear. Thank you for your help, Isaac."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome. It was a pleasure assisting you. If you have any further questions or concerns, please don't hesitate to reach out."
+        }
+      ]
+    },
+    {
+      "date": "4/11/2023",
+      "tag": "Mobile App",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good afternoon, welcome to General Bank Wealth Management. My name is Mark. How can I assist you today, David?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Mark, I would like to setup automatic contributions for my retirement account."
+        },
+        {
+          "type": "Agent",
+          "message": "Great choice, David! Automatic contributions can be a convenient and effective way to build your retirement savings over time."
+        },
+        {
+          "type": "Customer",
+          "message": "That's what I was thinking. How do I get started?"
+        },
+        {
+          "type": "Agent",
+          "message": "To set up automatic contributions, you can log into your account online or contact our customer service team. From there, you can choose the amount and frequency of your investments."
+        },
+        {
+          "type": "Customer",
+          "message": "Sounds easy enough. I think I'll start with $500 per month."
+        },
+        {
+          "type": "Agent",
+          "message": "Excellent choice, David. By investing $500 per month, you can take advantage of dollar-cost averaging and potentially increase your long-term returns."
+        },
+        {
+          "type": "Customer",
+          "message": "That's great to hear. Thank you for your help, Mark."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome. It was a pleasure assisting you. If you have any further questions or concerns, please don't hesitate to reach out."
+        }
+      ]
+    },
+    {
+      "date": "3/29/2023",
+      "tag": "Web Chat",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good afternoon, welcome to General Bank Wealth Management. My name is Isaac. How can I assist you today, David?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Isaac, I recently found out we are having a baby and I would like to rebalance my portfolio to account for the additional expenses and long-term financial goals."
+        },
+        {
+          "type": "Agent",
+          "message": "Congratulations on the new addition to your family, David! Based on your updated financial situation and retirement goals, we recommend reducing your stock allocation and increasing your bond allocation to account for the additional expenses and reduced time horizon until retirement."
+        },
+        {
+          "type": "Customer",
+          "message": "That makes sense. I think I have a moderate risk tolerance."
+        },
+        {
+          "type": "Agent",
+          "message": "Great, based on your age, updated financial situation, and moderate risk tolerance, a balanced allocation may be appropriate. This could involve allocating 50-60% of your portfolio to stocks and 40-50% to bonds."
+        },
+        {
+          "type": "Customer",
+          "message": "I see. I'll have to think about my risk tolerance and investment objectives."
+        },
+        {
+          "type": "Agent",
+          "message": "Absolutely. I would be happy to provide you with more information and answer any questions you have."
+        },
+        {
+          "type": "Customer",
+          "message": "Thank you, Isaac. I appreciate your help."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome. It was a pleasure assisting you. If you have any further questions or concerns, please don't hesitate to reach out."
+        }
+      ]
+    },
+    {
+      "date": "02/10/2023",
+      "tag": "Web Chat",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Hi there, David. Thank you for calling General Bank Wealth Management. My name is Michael. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Michael, I'm really frustrated right now. I tried to transfer money from my external bank account to my Retirement account. It's a large amount of money and the transfer is not showing up in my account."
+        },
+        {
+          "type": "Agent",
+          "message": "I'm sorry to hear about the trouble you're facing with the money transfer, and I understand your frustration. Can you please provide me with your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "My account number is 1234567890. I initiated the money transfer on February 5th for $50,000. The money transfer reference number is 987654."
+        },
+        {
+          "type": "Agent",
+          "message": "Okay, it appears that there might be a delay in processing the funds into your General Plus Retirement account. We'll investigate the money transfer further and work to resolve it as soon as possible. You will receive an email notification once the funds are successfully deposited."
+        },
+        {
+          "type": "Customer",
+          "message": "This is really frustrating, Michael. I needed that money for my retirement. This needs to get sorted out soon. I'm starting to get fed up with the hassle and delays."
+        },
+        {
+          "type": "Agent",
+          "message": "I completely understand your concerns, and I apologize for the inconvenience with the money tranfer. Our team is actively working on resolving this for you. If you have any other questions or need further assistance, please feel free to reach out. Bye now."
+        }
+      ]
+    },
+    {
+      "date": "4/09/2022",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good afternoon! Thank you for calling General Bank Wealth Management. My name is Rachel. How can I assist you today David?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Rachel, I'm 35 years old and I currently have $10,000 saved for retirement. I would like to retire at age 65 and live comfortably. I'm not sure where to start or what to do. Can you help me?"
+        },
+        {
+          "type": "Agent",
+          "message": "Of course, I'd be happy to help. Retirement planning is an important step in securing your financial future. To start, I'll need to gather some information about your current financial situation and your retirement goals. Based on your current savings and retirement age, it's important to consider a few key factors in your retirement plan. First, you'll want to consider your expected retirement expenses. This includes things like housing, healthcare, food, and travel. It's important to have a clear understanding of your expenses so you can determine how much income you'll need in retirement."
+        },
+        {
+          "type": "Customer",
+          "message": "That makes sense. I would estimate my expenses to be around $50,000 per year."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for sharing that. Based on your estimated expenses and your current savings, you'll want to consider how much you need to save each year to reach your retirement goal."
+        },
+        {
+          "type": "Customer",
+          "message": "I currently make $80,000 per year. So, I should be saving around $8,000 to $12,000 per year for retirement?."
+        },
+        {
+          "type": "Agent",
+          "message": "Yes, that's correct. However, it's important to note that this is just a general guideline. You may need to save more or less depending on your individual circumstances and retirement goals."
+        },
+        {
+          "type": "Customer",
+          "message": "That makes sense. I appreciate all of your help and advice Rachel."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome David! It was a pleasure assisting you. If you have any further questions or concerns, please don't hesitate to reach out."
+        }
+      ]
+    },
+    {
+      "date": "3/08/2022",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good evening, David. Thank you for choosing General Bank Wealth Management. My name is Emily. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Emily, I'd like to set up a General Plus Retirement account. Can you guide me through the process?"
+        },
+        {
+          "type": "Agent",
+          "message": "Absolutely, I'd be happy to help you with that. To get started, I'll need some information from you. Could you please provide your full name, date of birth, and social security number for account setup and verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my name is David Johnson, my date of birth is June 15, 1985, and my social security number is 123-45-6789."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you, David. Let me enter that information and create your retirement account. All right, your account is now set up. You've got a new General Plus Retirement account with the account number 9876543210. Is there an initial deposit you'd like to make today?"
+        },
+        {
+          "type": "Customer",
+          "message": "I'd like to deposit $1,000 to start."
+        },
+        {
+          "type": "Agent",
+          "message": "Perfect. I've set up your account with the initial $1,000 deposit. Your account is now active and ready to use. You can access it online or at any General Bank branch. Is there anything else you'd like to know or do regarding your new account?"
+        },
+        {
+          "type": "Customer",
+          "message": "That's it for now, Emily. Thanks for your assistance. You were a great help, and I’m excited about this new account."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome, David! If you ever have more questions or need help with your account in the future, please feel free to reach out. We appreciate your business and are here to assist you. Have a wonderful day!"
+        }
+      ]
+    }
+  ]
+}

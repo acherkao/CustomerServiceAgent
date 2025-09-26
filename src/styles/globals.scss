@@ -1,0 +1,231 @@
+@use '@carbon/react';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @use '@carbon/react/scss/components/uishell'; */
+@import 'variables';
+
+// $primary-color: rgba(136, 93, 61, 1);
+// $secondary-color: rgba(234, 225, 210, 1);
+
+body {
+  background: $secondary-color;
+  color-scheme: light;
+  color: $primary-color;
+  font-size: 1.4rem;
+  overflow: hidden;
+  // font-family: $font-family;
+}
+
+#__next {
+  overflow-y: scroll;
+}
+
+.main {
+  height: 100vh;
+  background: $secondary-color;
+  &__grid {
+    padding-bottom: 2em;
+  }
+}
+
+.height-100 {
+  height: 100%;
+}
+
+.p-4,
+.mt-10 {
+  background: $secondary-color;
+}
+
+.headerClass {
+  background-color: $primary-color;
+  color: white;
+  & > a {
+    color: white;
+    font-size: 1.5rem;
+  }
+  &:hover {
+    color: white !important;
+  }
+}
+
+.userIcon {
+  border-radius: 50%;
+}
+
+.quick-send-container {
+  // display: flex;
+  // flex-direction: row;
+  // justify-content: center;
+  // align-items: center;
+  // & > h4 {
+  //   margin-bottom: 2em;
+  // }
+}
+.quick-send-btn-grp {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 80%;
+  align-items: center;
+  gap: 1em;
+}
+
+.account-activity {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+  min-height: 12em;
+  padding-bottom: 2em;
+  // padding: 5rem;
+  &-icon {
+    margin-right: 5em;
+    // box-shadow: 0.3rem 0.3rem 0.3rem rgba(0, 0, 0, 0.4);
+    // width: 8rem !important;
+    // border: 3px solid rgba(36, 36, 36, 0.5);
+  }
+  &-items {
+    color: rgba(0, 0, 0, 0.6);
+  }
+}
+
+.contact-history-container {
+  & Button {
+    background-color: $primary-color;
+    color: $secondary-color;
+    border: 1px solid $primary-color;
+    min-width: 17em;
+    box-shadow: 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.5);
+
+    &:hover {
+      background-color: $secondary-color !important;
+      color: $primary-color !important;
+      border: 1px solid $primary-color !important;
+      box-shadow: 0.4rem 0.4rem 0.8rem rgba(0, 0, 0, 0.3);
+    }
+  }
+}
+
+.truist-btn {
+  background-color: $primary-color;
+  color: $secondary-color !important;
+  border: 1px solid $primary-color;
+  box-shadow: 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.5);
+  // min-width: 16em;
+  min-width: 12em;
+  &:hover {
+    background-color: $secondary-color;
+    color: $primary-color !important;
+    border: 1px solid $primary-color;
+    box-shadow: 0.4rem 0.4rem 0.8rem rgba(0, 0, 0, 0.3);
+  }
+}
+.modal-btn {
+  min-width: 11em;
+}
+
+// .truist-btn:hover {
+//   background-color: white !important;
+//   color: rgba(41, 101, 183, 1) !important;
+//   border: 1px solid rgba(41, 101, 183, 1) !important;
+// }
+
+.recommended-action {
+  min-height: 7em;
+}
+
+.knowledge-card {
+  box-shadow: 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.2);
+  border: 3px solid rgba(127, 63, 36, 0.5);
+}
+
+// .tile-header {
+//   background-color: rgba(41, 101, 183, 1);
+//   color: white;
+//   padding: .5em;
+//   margin-bottom: .5em;
+// }
+
+.discovery-lookup-loading-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  overflow: hidden;
+  padding: 2em;
+}
+
+.discovery-overflow-y-scroll {
+  overflow-y: scroll;
+  // max-height: 100%;
+}
+
+.todo-list {
+  min-height: 18em;
+  // grid-row: span 3 / span 2;
+}
+
+.cds--modal-header {
+  padding: 0;
+}
+.cds--modal-close {
+  background-color: white !important;
+  max-width: 3rem !important;
+  min-width: 3rem !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: $secondary-color;
+  &:hover {
+    color: white;
+    background-color: white !important;
+    border: 1px solid rgba(127, 63, 36, 1);
+  }
+}
+
+.cds--modal-footer {
+  justify-content: flex-start !important;
+  & > .cds--btn,
+  .cds--btn--secondary {
+    max-width: 5rem;
+    // background-color: rgba(41, 101, 183, 1) !important;
+    margin: 0 0.5rem;
+  }
+}
+
+.cds--modal-header__heading {
+  background-color: $secondary-color;
+  color: rgba(0, 0, 0, 0.8);
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+}
+.cds--modal.is-visible,
+.cds--modal-container {
+  padding-bottom: 1em;
+}
+
+.structured-list-row {
+  min-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+.contact-history-bullets {
+  & > li {
+    margin-bottom: 5px;
+  }
+  & > li::before {
+    content: '';
+    background: rgb(138, 72, 40, 0.7);
+    border-radius: 0.5ch;
+    padding-inline: 0.5ch;
+    margin-inline-end: 1.5ch;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+  }
+}

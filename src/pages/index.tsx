@@ -1,0 +1,211 @@
+import React, { useEffect, useState } from 'react';
+import Head from 'next/head';
+
+import '@carbon/charts/styles.css';
+
+// ------------------ Modules ------------------ //
+import LiveTranscript from './components/LiveTranscript';
+import Header from './components/Header';
+import CustomerProfile from './components/CustomerProfile';
+import RecommendedActions from './components/RecommendedActions';
+import SentimentAnalysis from './components/SentimentAnalysis';
+import FollowUpActionList from './components/FollowUpActionList';
+import AccountActivity from './components/AccountActivity';
+import CallTemplateChecklist from './components/CallTemplateChecklist';
+import ContactHistory from './components/ContactHistory';
+import DiscoverySearch from './components/DiscoverySearch';
+import QuickSend from './components/QuickSend';
+
+// ----------------- DATA ----------------------//
+
+const TYPE = process.env.NEXT_PUBLIC_DEMO_TYPE;
+import radarDataJson from '../../stt/radar_data/radar_data.json';
+import demo_script_custom from '../data/demo_script.json'
+import demo_script_banking from '../data/demo_script_banking.json'
+import demo_script_wealth from '../data/demo_script_wealth.json'
+import demo_script_insurance from '../data/demo_script_insurance.json'
+
+// import demoScript from '../data/demo_script.json';
+import utteranceData from '../../stt/stt_data/utterance.json'
+
+
+let demoScript: any;
+
+switch (TYPE) {
+  case 'wealth':
+    demoScript = demo_script_wealth;
+    break;
+  case 'insurance':
+    demoScript = demo_script_insurance;
+    break;
+  case 'banking':
+    demoScript = demo_script_banking;
+    break;
+  default:
+    demoScript = demo_script_custom;
+    break;
+}
+
+
+
+const Home = () => {
+  const [playedSeconds, setPlayedSeconds] = useState(0);
+
+  // ------------------------ Component Data ------------------------- //
+
+  const [radarData, _setRadarData] = useState<Utterance[]>(radarDataJson.data);
+
+  // The information shown in the Customer Profile
+  const [customerProfile, setCustomerProfile] = useState<CustomerProfile>({
+    phone_number: '',
+    sub_title: '',
+    rows: [],
+  });
+
+  // The name and picture for the customer and agent
+  const [dramatisPersonae, setDramatisPersonae] = useState<DramatisPersonae>({
+    customer: { icon: '', name: '' },
+    agent: { icon: '', name: '' },
+  });
+
+  const [accountActivity, setAccountActivity] = useState<AccountData>({});
+
+  const [callTemplateChecklistItems, setCallTemplateChecklistItems] = useState<
+    CallTemplateChecklistItem[]
+  >([]);
+
+  const [discoverySearch, setDiscoverySearch] = useState<DiscoverySearch[]>([]);
+
+  const [demoTranscript, setDemoTranscript] = useState<TranscriptMessage[]>([]);
+
+  const [recommendedActions, setRecommendedActions] = useState<
+    RecommendedActions[]
+  >([]);
+
+  const [currentRecommendedAction, setCurrentRecommendedAction] =
+    useState<RecommendedAction>({ type: null, action: null });
+
+  const [followUpActions, setFollowUpActions] = useState<FollowUpActions[]>([]);
+
+  const [contactHistoryData, setContactHistoryData] = useState<
+    ContactHistoryData[]
+  >([]);
+
+  const [utterances, setUtterances] = useState<UtteranceData[]>([])
+
+  // ------------------------ Function to set component data ------------------------- //
+
+  useEffect(() => {
+    const {
+      recommended_actions,
+      call_template_checklist,
+      knowledge_lookup,
+      followup_actions,
+      demo_transcript,
+      contact_history_data,
+      customer_profile,
+      account_activity,
+      dramatis_personae,
+    } = demoScript;
+    setRecommendedActions(recommended_actions);
+    setCallTemplateChecklistItems(call_template_checklist);
+    setDiscoverySearch(knowledge_lookup);
+    setFollowUpActions(followup_actions);
+    setDemoTranscript(demo_transcript);
+    setContactHistoryData(contact_history_data);
+    setCustomerProfile(customer_profile);
+    setAccountActivity(account_activity);
+    setDramatisPersonae(dramatis_personae)
+    setUtterances(utteranceData)
+  }, [demoScript]);
+
+  // Recommended Actions
+  useEffect(() => {
+    const actionItem = recommendedActions.find(
+      (item, index) =>
+        playedSeconds >= item.timestamp &&
+        (index === recommendedActions.length - 1 ||
+          playedSeconds < recommendedActions[index + 1].timestamp)
+    );
+
+    if (actionItem) {
+      setCurrentRecommendedAction({
+        type: actionItem.type,
+        action: actionItem.action,
+      });
+    }
+  }, [playedSeconds]);
+
+  // Call Template Checklist
+  useEffect(() => {
+    callTemplateChecklistItems.forEach((item) => {
+      if (playedSeconds > item.timestamp) {
+        setCallTemplateChecklistItems((prevItems) =>
+          prevItems.map((prevItem) =>
+            prevItem.label === item.label
+              ? { ...prevItem, completed: true }
+              : prevItem
+          )
+        );
+      }
+    });
+  }, [playedSeconds]);
+
+  return (
+    <>
+      <Head>
+        <title>IBM Agent Assist</title>
+        <meta name='description' content='Generated by create next app' />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
+        <link rel='icon' href='/favicon.ico' />
+      </Head>
+      <main className='main'>
+        <Header agent={dramatisPersonae.agent} />
+        <div className='p-4 mt-10'>
+          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row gap-2 main__grid'>
+            <CustomerProfile data={customerProfile} customer={dramatisPersonae.customer} />
+
+            <DiscoverySearch
+              data={discoverySearch}
+              playedSeconds={playedSeconds}
+            />
+
+            <RecommendedActions
+              currentRecommendedAction={currentRecommendedAction}
+            />
+
+            <LiveTranscript
+              playedSeconds={playedSeconds}
+              setPlayedSeconds={setPlayedSeconds}
+              dramatisPersonae={dramatisPersonae}
+            />
+
+            <ContactHistory data={contactHistoryData} />
+
+            <SentimentAnalysis
+              radarData={radarData}
+              playedSeconds={playedSeconds}
+            />
+
+            <FollowUpActionList
+              followUpActions={followUpActions}
+              playedSeconds={playedSeconds}
+              utterances={utterances}
+            />
+            <AccountActivity
+              data={accountActivity}
+              playedSeconds={playedSeconds}
+            />
+
+            <QuickSend data={demoTranscript} />
+
+            <CallTemplateChecklist
+              callTemplateChecklistItems={callTemplateChecklistItems}
+            />
+          </div>
+        </div>
+      </main>
+    </>
+  );
+};
+export default Home;

@@ -1,0 +1,500 @@
+{
+  "dramatis_personae": {
+    "customer": {
+      "icon": "david.png",
+      "name": "John Smith"
+    },
+    "agent": {
+      "icon": "isaac2.jpg",
+      "name": "Isaac Ke"
+    }
+  },
+  "customer_profile": {
+    "phone_number": "+1 (123) 456-7890",
+    "sub_title": "Customer since 2020",
+    "rows": [
+      {
+        "name": "Customer Id",
+        "value": "23451234",
+        "tag": false
+      },
+      {
+        "name": "Geography",
+        "value": "US-Midwest",
+        "tag": false
+      },
+      {
+        "name": "Address",
+        "value": "1234 Main Street, Newtown, Michigan 48123",
+        "tag": false
+      },
+      {
+        "name": "Age",
+        "value": "35",
+        "tag": false
+      },
+      {
+        "name": "Gender",
+        "value": "Male",
+        "tag": false
+      },
+      {
+        "name": "Marital Status",
+        "value": "Married",
+        "tag": true
+      },
+      {
+        "name": "Driving Risk Score",
+        "value": "Low",
+        "tag": true
+      },
+      {
+        "name": "Active Accounts",
+        "value": "Auto Insurance",
+        "tag": true
+      },
+      {
+        "name": "Credit Cards",
+        "value": "none",
+        "tag": true
+      }
+    ]
+  },
+  "account_activity": {
+    "timestamp": 10,
+    "icon": "fake_bank.png",
+    "data": [
+      {
+        "type": "Account",
+        "value": "Auto Insurance Plan"
+      },
+      {
+        "type": "Plan Cost",
+        "value": "$1,000"
+      },
+      {
+        "type": "Confirmation Number",
+        "value": "0987654321"
+      },
+      {
+        "type": "Last Payment",
+        "value": "11/01/2023"
+      },
+      {
+        "type": "Next Payment",
+        "value": "11/04/2024"
+      }
+    ]
+  },
+  "call_template_checklist": [
+    {
+      "label": "Greet",
+      "timestamp": 5,
+      "completed": false
+    },
+    {
+      "label": "Assess",
+      "timestamp": 65,
+      "completed": false
+    },
+    {
+      "label": "Assist",
+      "timestamp": 156,
+      "completed": false
+    },
+    {
+      "label": "Summarize",
+      "timestamp": 167,
+      "completed": false
+    },
+    {
+      "label": "Confirm",
+      "timestamp": 172,
+      "completed": false
+    },
+    {
+      "label": "Wrap Up",
+      "timestamp": 180,
+      "completed": false
+    }
+  ],
+  "knowledge_lookup": [
+    {
+      "timestamp": 18,
+      "query": [
+        "Why did my total premium increased?"
+      ],
+      "queryTerm": "Auto Premium Rates",
+      "tag": [
+        "auto premium factors"
+      ]
+    },
+    {
+      "timestamp": 75,
+      "query": [
+        "Who do you use for renters or homeowners insurance for your new place?"
+      ],
+      "queryTerm": "Auto and Home Bundle Details",
+      "tag": [
+        "Auto and Home Bundle"
+      ]
+    },
+    {
+      "timestamp": 113,
+      "query": [
+        "Good Driver Discount"
+      ],
+      "queryTerm": "Good Driver Discount",
+      "tag": [
+        "Good Driver Discount"
+      ]
+    }
+  ],
+  "recommended_actions": [
+    {
+      "timestamp": 30,
+      "type": "Confirm",
+      "action": "Customer's Address"
+    },
+    {
+      "timestamp": 90,
+      "type": "Suggest",
+      "action": "Auto and Home Bundle to Customer"
+    },
+    {
+      "timestamp": 160,
+      "type": "Confirm",
+      "action": "Customer Email and Send Application"
+    },
+    {
+      "timestamp": 173,
+      "type": "Summarize",
+      "action": "Action Items and Offer Additional Help"
+    }
+  ],
+  "followup_actions": [
+    {
+      "timestamp": 75,
+      "value": "Send Information on Auto-Premium Rates Factors"
+    },
+    {
+      "timestamp": 172,
+      "value": "Send Auto and Home Bundle Application for Customer to Sign"
+    },
+    {
+      "timestamp": 190,
+      "value": "Send a Follow-Up Email with Auto and Home Bundle Application, and Summary of Meeting"
+    }
+  ],
+  "demo_transcript": [
+    {
+      "type": "Agent",
+      "message": "Thank you for calling Assurance Insurance care center. This is Isaac Ke. To whom do I have the pleasure of speaking with today?"
+    },
+    {
+      "type": "Customer",
+      "message": "Hey there, this is John Smith."
+    },
+    {
+      "type": "Agent",
+      "message": "Hi, Mr. Smith. How can I assist you today?"
+    },
+    {
+      "type": "Customer",
+      "message": "I’m calling because I’m annoyed with what happened with my auto policy. I noticed this morning that my auto premium has increased without any warning. I’ve been a long-standing customer and haven’t had any claims on my record, so this doesn’t make sense at all. Can you explain this? "
+    },
+    {
+      "type": "Agent",
+      "message": "Sure, I understand your frustration, and I’m here to walk with you to a solution. I’m looking at your profile and policy here, and I see that you recently moved from California to Michigan. Can you please confirm your current address?"
+    },
+    {
+      "type": "Customer",
+      "message": "Sure, it’s 1234 Main Street, Newtown, Michigan, 48123."
+    },
+    {
+      "type": "Agent",
+      "message": "Got it, thank you. So auto insurance rates vary by state due to factors such as state laws, minimum coverage requirements, and local risk factors. For example, the minimum bodily injury liability coverage for California is $15,000 per person while Michigan’s is $50,000. Also other risk factors like winter storms go into your premium calculation."
+    },
+    {
+      "type": "Customer",
+      "message": "Hmm, I guess that makes sense, but it’s still frustrating to me since it happened all of a sudden. Is there anything you can do to offset this?"
+    },
+    {
+      "type": "Agent",
+      "message": "So I see here that you only have an auto insurance policy with us. If I may ask, who do you use for renters or homeowners insurance for your new place?"
+    },
+    {
+      "type": "Customer",
+      "message": "I’m using Insurance Plus for my home insurance."
+    },
+    {
+      "type": "Agent",
+      "message": "Got it, so we can offer you a bundle policy discount if you consolidate your auto and home insurance with us. You’d receive a discount on both your auto and home premiums by up to 25%! How does this sound to you?"
+    },
+    {
+      "type": "Customer",
+      "message": "Oh wow, that’s a lot. Sure, I’d be interested in getting a quote. Can you run that for me now?"
+    },
+    {
+      "type": "Agent",
+      "message": "Yes, for sure! I have all the information I need from your profile and also from public data on your home address. What coverage levels do you have with your current provider?"
+    },
+    {
+      "type": "Customer",
+      "message": "The minimum."
+    },
+    {
+      "type": "Agent",
+      "message": "Got it, so let me run that quote for you real quick … . Looks like I can also add an extra Good Driver discount for your clean record over the past few years."
+    },
+    {
+      "type": "Customer",
+      "message": "Oh sweet! That would be great."
+    },
+    {
+      "type": "Agent",
+      "message": "Of course, no problem! So I have your quote ready. With the Good Driver discount, and by bundling your home and auto, your auto premium would decrease by $500 per year from $2350 to $1850. Also your homeowners premium would be $2100 per year, as opposed to $2700 without the bundle. In all, you’ll be saving 24% by bundling with us! What do you think?"
+    },
+    {
+      "type": "Customer",
+      "message": "Woah, that sounds almost too good to be true. Those savings will definitely help me out! So sure, I’d like to go with the bundle option, thanks."
+    },
+    {
+      "type": "Agent",
+      "message": "Sure, I will email you the quote and also send you some forms for you to e-sign. You can review on your own time and reach out if you have any questions."
+    },
+    {
+      "type": "Customer",
+      "message": "Great, thank you so much!"
+    },
+    {
+      "type": "Agent",
+      "message": "My pleasure! Is there anything else I can assist you with today?"
+    },
+    {
+      "type": "Customer",
+      "message": "No, that’s all for now. Thanks for the help."
+    },
+    {
+      "type": "Agent",
+      "message": "No problem, thank you for choosing Assurance Insurance. Don’t hesitate to reach out if anything else comes up. Have a nice day."
+    }
+  ],
+  "contact_history_data": [
+    {
+      "date": "7/01/2023",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good afternoon. Thank you for calling General Insurance. My name is Lisa. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Lisa, I need to dispute an unwanted claim to my auto insurance. I'm really upset about it."
+        },
+        {
+          "type": "Agent",
+          "message": "I'm sorry to hear that you're upset. I'll do my best to help you with your claim dispute. Could you please provide your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "It's 1234567890."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. Can you please provide more details about the account activity in question and what's concerning you?"
+        },
+        {
+          "type": "Customer",
+          "message": "I saw an unauthorized claim on my account which I didn’t make. I’ve been trying to get in touch with General Insurance for days, and nobody seems to care about resolving this issue. I'm really frustrated."
+        },
+        {
+          "type": "Agent",
+          "message": "I apologize for the inconvenience you've faced and understand your frustration. Let me look into this for you. Can you provide the claim ID and amount?"
+        },
+        {
+          "type": "Customer",
+          "message": "The claim was on October 25th at 2:30 PM for $2,000. The ID is 234567."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for the information. I'll start an investigation into this issue and escalate it to our dispute resolution team. I'll provide you with a reference number for tracking. Please expect a call from them within the next few business days."
+        },
+        {
+          "type": "Customer",
+          "message": "Finally, some action. I hope this gets resolved soon. I will have to think about if I still want to do business with you all."
+        },
+        {
+          "type": "Agent",
+          "message": "I sincerely apologize for this experience. We certainly don't want to lose you as a customer and will do our best to rectify this situation. If you have any other concerns, please don't hesitate to let us know."
+        }
+      ]
+    },
+    {
+      "date": "4/11/2023",
+      "tag": "Mobile App",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good morning! Thank you for calling General Insurance. My name is Sarah. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Sarah, I'd like to check the rate for adding another vehicle."
+        },
+        {
+          "type": "Agent",
+          "message": "Of course, I'd be happy to help with that. Could you please provide me with your account number or your social security number to verify your identity?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my account number is 1234567890."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. One moment while I access your account... Alright, I can see your General Plus Auto Insurance account. Adding another vehicle would cost 110 dollars a month. Is there anything else you'd like to inquire about or any other assistance you need?"
+        },
+        {
+          "type": "Customer",
+          "message": "Awesome, that’s a lot less money than I expected, which is great news! That's all I needed, Sarah. Thanks for your help!"
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome! If you have any more questions or need assistance in the future, please don't hesitate to reach out. Have a great day!"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2022",
+      "tag": "Web Chat",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Hi there, Paul. Thank you for calling General Insurance customer service. My name is Michael. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Michael, I'm really frustrated right now. I tried to make a payment from my external bank account to my General Plus Insurance account, and it's not showing up in my account."
+        },
+        {
+          "type": "Agent",
+          "message": "I'm sorry to hear about the trouble you're facing, and I understand your frustration. Can you please provide me with your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "It's 1234567890."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. To better assist you, could you share the details of the external bank transfer, such as the date, amount, and the transaction reference number if you have it?"
+        },
+        {
+          "type": "Customer",
+          "message": "I initiated the transfer on October 20th, for $2,000, and the reference number is 987654."
+        },
+        {
+          "type": "Agent",
+          "message": "Okay, it appears that there might be a delay in processing the funds into your General Insurance account. We'll investigate this further and work to resolve it as soon as possible. You will receive an email notification once the funds are successfully deposited."
+        },
+        {
+          "type": "Customer",
+          "message": "This is really frustrating, Michael."
+        },
+        {
+          "type": "Agent",
+          "message": "I completely understand your concerns, and I apologize for the inconvenience. Our team is actively working on resolving this for you. If you have any other questions or need further assistance, please feel free to reach out."
+        },
+        {
+          "type": "Customer",
+          "message": "Okay, I hope this gets sorted out soon. I’m starting to get fed up with all this hassle."
+        },
+        {
+          "type": "Agent",
+          "message": "Sure, I understand. We will do our best to resolve this promptly. If you have any further questions or concerns, don't hesitate to contact us. Bye now."
+        }
+      ]
+    },
+    {
+      "date": "9/02/2022",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good morning! Thank you for calling Insurance Bank. My name is Rachel. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Rachel, I was wondering if I can set up auto pay for my home insurance account. Is that possible?"
+        },
+        {
+          "type": "Agent",
+          "message": "Sure thing! Auto pay can be a fantastic way to make your payments on time. To better assist you, could you please provide me with your account number or social security number for verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my account number is 9876543210."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you for verifying your identity. To set up auto pay for your home insurance account, you will need to sign up online and provide your bank account details."
+        },
+        {
+          "type": "Customer",
+          "message": "I see. I'll go online and look into that. Thanks for your help, Rachel! Much appreciated."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome! If you have any more questions or need further assistance in the future, please don't hesitate to reach out. Have a great day, and I hope you can enjoy the benefits of early direct deposit soon!"
+        }
+      ]
+    },
+    {
+      "date": "3/08/2022",
+      "tag": "Phone Call",
+      "review": "",
+      "transcript": [
+        {
+          "type": "Agent",
+          "message": "Good evening, Paul. Thank you for choosing General Insurance. My name is Emily. How can I assist you today?"
+        },
+        {
+          "type": "Customer",
+          "message": "Hi Emily, I'd like to set up a General Plus Renters Insurance account. Can you guide me through the process?"
+        },
+        {
+          "type": "Agent",
+          "message": "Absolutely, I'd be happy to help you with that. To get started, I'll need some information from you. Could you please provide your full name, date of birth, and social security number for account setup and verification?"
+        },
+        {
+          "type": "Customer",
+          "message": "Sure, my name is Paul Kelly, my date of birth is June 15, 1985, and my social security number is 123-45-6789."
+        },
+        {
+          "type": "Agent",
+          "message": "Thank you, Paul. Let me enter that information and create your insurance account. All right, your account is now set up. You've got a new General Plus Renters Insurance account with the account number 9876543210."
+        },
+        {
+          "type": "Customer",
+          "message": "I'd like to go ahead and pay $1,000 for the first six months."
+        },
+        {
+          "type": "Agent",
+          "message": "Perfect. I've set up your account with the initial $1,000 deposit. Your account is now active and ready to use. You can access it online or at any General Insurance branch. Is there anything else you'd like to know or do regarding your new insurance account?"
+        },
+        {
+          "type": "Customer",
+          "message": "That's it for now, Emily. Thanks for your assistance. You were a great help, and I’m excited about this new account."
+        },
+        {
+          "type": "Agent",
+          "message": "You're welcome, Paul! If you ever have more questions or need help with your account in the future, please feel free to reach out. We appreciate your business and are here to assist you. Have a wonderful day!"
+        }
+      ]
+    }
+  ]
+}

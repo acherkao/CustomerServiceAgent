@@ -1,0 +1,36 @@
+.live_transcript_header {
+    display: grid;
+    grid-template: auto / auto 1fr ;
+    min-height: 50px;
+    align-items: center;
+}
+
+.live_transcript_title {
+    padding-right: 1rem;
+}
+
+/* .live_transcript_header:hover {
+    background-color: darkblue;
+} */
+
+.live_transcript_header:hover .react_player_wrapper {
+    height: 50px !important;
+}
+
+.react_player_wrapper {
+    /* background-color: pink; */
+    /* height: 0px !important; */
+    height: 50px !important;
+    width: 100%;
+    overflow: hidden;
+    display: grid;
+    align-items: center;
+}
+
+.transcriptContainer {
+  transition: scroll-behavior 0.5s;
+}
+
+.transcriptEntry {
+  transition: all 0.3s; /* Adjust the duration as needed */
+}
